@@ -47,7 +47,7 @@ J42R = {
 	},
 	load: function() {
 		var self=this,lang=this.getLang();
-		$.getJSON('I18N/'+lang,function(data) {
+		$.getJSON('I18N/'+lang+'.json',function(data) {
 			self.put(lang,data).t();
 		}).error(function(){
 			self.put(lang,{}).t();

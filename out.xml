@@ -1,0 +1,6588 @@
+<?xml version="1.0"?>
+<data>
+  <report>
+    <date>19.11.2020</date>
+    <time>13:44:09</time>
+    <dbtime>0.43576192855835</dbtime>
+    <term><![CDATA[бабка]]></term>
+    <left>4</left>
+    <right>4</right>
+    <xmltime>0.535500049591064</xmltime>
+  </report>
+  <concordance>
+    <cluster n="0">
+      <item left="1">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[гэта]]></form>
+        <token><![CDATA[гэта]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[ростанях]]></form>
+        <token><![CDATA[ростанях.]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка!]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[ну]]></form>
+        <token><![CDATA[Ну,]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[прысядзь]]></form>
+        <token><![CDATA[прысядзь,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[пагаворым]]></form>
+        <token><![CDATA[пагаворым]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[трохі]]></form>
+        <token><![CDATA[трохі!]]></token>
+      </item>
+    </cluster>
+    <cluster n="1">
+      <item left="1">
+        <form><![CDATA[прысаджваючыся]]></form>
+        <token><![CDATA[прысаджваючыся,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[сказала]]></form>
+        <token><![CDATA[сказала,]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[кніжкай]]></form>
+        <token><![CDATA[кніжкай,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[гэтай]]></form>
+        <token><![CDATA[гэтай]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[прабачайце]]></form>
+        <token><![CDATA[Прабачайце,]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[панічок]]></form>
+        <token><![CDATA[панічок:]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[я]]></form>
+        <token><![CDATA[я]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[прыйшла]]></form>
+        <token><![CDATA[прыйшла]]></token>
+      </item>
+    </cluster>
+    <cluster n="2">
+      <item left="1">
+        <form><![CDATA[перастала]]></form>
+        <token><![CDATA[Перастала,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[перастала]]></form>
+        <token><![CDATA[перастала?]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[ці]]></form>
+        <token><![CDATA[ці]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[галава]]></form>
+        <token><![CDATA[галава,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[перастала]]></form>
+        <token><![CDATA[перастала!]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[сказаў]]></form>
+        <token><![CDATA[сказаў]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[малады]]></form>
+        <token><![CDATA[малады]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[настаўнік]]></form>
+        <token><![CDATA[настаўнік,]]></token>
+      </item>
+    </cluster>
+    <cluster n="3">
+      <item left="1">
+        <form><![CDATA[памагла]]></form>
+        <token><![CDATA[памагла,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[мне]]></form>
+        <token><![CDATA[мне]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[гэта]]></form>
+        <token><![CDATA[гэта]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[сказаў]]></form>
+        <token><![CDATA[сказаў]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[настаўнік]]></form>
+        <token><![CDATA[настаўнік,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[усміхнуўшыся]]></form>
+        <token><![CDATA[усміхнуўшыся.]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[ой]]></form>
+        <token><![CDATA[Ой,]]></token>
+      </item>
+    </cluster>
+    <cluster n="4">
+      <item left="1">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[о]]></form>
+        <token><![CDATA[О]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[старой]]></form>
+        <token><![CDATA[старой!]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[мне]]></form>
+        <token><![CDATA[мне,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка:]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[веру]]></form>
+        <token><![CDATA[веру,]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[веру]]></form>
+        <token><![CDATA[веру!]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[аб]]></form>
+        <token><![CDATA[Аб]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[тваім]]></form>
+        <token><![CDATA[тваім]]></token>
+      </item>
+    </cluster>
+    <cluster n="5">
+      <item left="1">
+        <form><![CDATA[прамовіла]]></form>
+        <token><![CDATA[прамовіла]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[гордасцю]]></form>
+        <token><![CDATA[гордасцю]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[з]]></form>
+        <token><![CDATA[з]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[мар'і]]></form>
+        <token><![CDATA[Мар'і,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[І]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[як]]></form>
+        <token><![CDATA[як]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[гэта]]></form>
+        <token><![CDATA[гэта]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты,]]></token>
+      </item>
+    </cluster>
+    <cluster n="6">
+      <item left="1">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[гэта]]></form>
+        <token><![CDATA[гэта]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[як]]></form>
+        <token><![CDATA[як]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[І]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[шаптаць]]></form>
+        <token><![CDATA[шаптаць]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[навучылася]]></form>
+        <token><![CDATA[навучылася?]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[навучылася]]></form>
+        <token><![CDATA[Навучылася,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[панічыку]]></form>
+        <token><![CDATA[панічыку,]]></token>
+      </item>
+    </cluster>
+    <cluster n="7">
+      <item left="1">
+        <form><![CDATA[ж]]></form>
+        <token><![CDATA[ж,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[ведаць]]></form>
+        <token><![CDATA[ведаць!]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка:]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[навучыўся]]></form>
+        <token><![CDATA[навучыўся]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[б]]></form>
+        <token><![CDATA[б,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[да]]></form>
+        <token><![CDATA[да]]></token>
+      </item>
+    </cluster>
+    <cluster n="8">
+      <item left="1">
+        <form><![CDATA[мусіць]]></form>
+        <token><![CDATA[Мусіць,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[няможна]]></form>
+        <token><![CDATA[Няможна!]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[грэх]]></form>
+        <token><![CDATA[грэх?]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[хіба]]></form>
+        <token><![CDATA[Хіба]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[з]]></form>
+        <token><![CDATA[з]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[нячыстай]]></form>
+        <token><![CDATA[нячыстай]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[сілай]]></form>
+        <token><![CDATA[сілай]]></token>
+      </item>
+    </cluster>
+    <cluster n="9">
+      <item left="1">
+        <form><![CDATA[яе]]></form>
+        <token><![CDATA[яе,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[бо]]></form>
+        <token><![CDATA[бо]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[яе]]></form>
+        <token><![CDATA[яе,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[баюся]]></form>
+        <token><![CDATA[баюся]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[наогул]]></form>
+        <token><![CDATA[наогул]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[няма]]></form>
+        <token><![CDATA[няма.]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[гэ]]></form>
+        <token><![CDATA[Гэ,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[панічыку]]></form>
+        <token><![CDATA[панічыку,]]></token>
+      </item>
+    </cluster>
+    <cluster n="10">
+      <item left="1">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[вось]]></form>
+        <token><![CDATA[вось]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[а]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[ну]]></form>
+        <token><![CDATA[Ну,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[дзякаваць]]></form>
+        <token><![CDATA[дзякаваць]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[богу]]></form>
+        <token><![CDATA[Богу,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[трошкі]]></form>
+        <token><![CDATA[трошкі]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[пажылатакі]]></form>
+        <token><![CDATA[пажыла-такі,]]></token>
+      </item>
+    </cluster>
+    <cluster n="11">
+      <item left="1">
+        <form><![CDATA[табе]]></form>
+        <token><![CDATA[табе,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[я]]></form>
+        <token><![CDATA[я]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[адказу]]></form>
+        <token><![CDATA[адказу.]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[скажу]]></form>
+        <token><![CDATA[скажу,]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[каго]]></form>
+        <token><![CDATA[каго]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[яна]]></form>
+        <token><![CDATA[яна]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[налучае]]></form>
+        <token><![CDATA[налучае.]]></token>
+      </item>
+    </cluster>
+    <cluster n="12">
+      <item left="1">
+        <form><![CDATA[спытаўся]]></form>
+        <token><![CDATA[спытаўся:]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[самога]]></form>
+        <token><![CDATA[самога,]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[сябе]]></form>
+        <token><![CDATA[сябе]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[для]]></form>
+        <token><![CDATA[для]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка!]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[твой]]></form>
+        <token><![CDATA[твой]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[міхалка]]></form>
+        <token><![CDATA[Міхалка]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[мог]]></form>
+        <token><![CDATA[мог]]></token>
+      </item>
+    </cluster>
+    <cluster n="13">
+      <item left="1">
+        <form><![CDATA[старая]]></form>
+        <token><![CDATA[Старая]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[галаве]]></form>
+        <token><![CDATA[галаве.]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[яго]]></form>
+        <token><![CDATA[яго]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[звярнула]]></form>
+        <token><![CDATA[звярнула]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[гэта]]></form>
+        <token><![CDATA[гэта]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[увагу]]></form>
+        <token><![CDATA[ўвагу]]></token>
+      </item>
+    </cluster>
+    <cluster n="14">
+      <item left="1">
+        <form><![CDATA[ведаеш]]></form>
+        <token><![CDATA[ведаеш,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[засмяяўся]]></form>
+        <token><![CDATA[засмяяўся.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[хочаш]]></form>
+        <token><![CDATA[хочаш,]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[я]]></form>
+        <token><![CDATA[я]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[скажу]]></form>
+        <token><![CDATA[скажу]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[табе]]></form>
+        <token><![CDATA[табе,]]></token>
+      </item>
+    </cluster>
+    <cluster n="15">
+      <item left="1">
+        <form><![CDATA[думаеш]]></form>
+        <token><![CDATA[думаеш?]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[цяпер]]></form>
+        <token><![CDATA[цяпер]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[здзівілася]]></form>
+        <token><![CDATA[здзівілася]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[яшчэ]]></form>
+        <token><![CDATA[яшчэ]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[болей]]></form>
+        <token><![CDATA[болей,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[а]]></token>
+      </item>
+    </cluster>
+    <cluster n="16">
+      <item left="1">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[Ты,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[прамовіў]]></form>
+        <token><![CDATA[прамовіў:]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[адказу]]></form>
+        <token><![CDATA[адказу,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[яе]]></form>
+        <token><![CDATA[яе]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[пазірала]]></form>
+        <token><![CDATA[пазірала]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[мяне]]></form>
+        <token><![CDATA[мяне]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+    </cluster>
+    <cluster n="17">
+      <item left="1">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[Ты,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[сказаў]]></form>
+        <token><![CDATA[сказаў:]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[твару]]></form>
+        <token><![CDATA[твару,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[выраз]]></form>
+        <token><![CDATA[выраз]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[думай]]></form>
+        <token><![CDATA[думай]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[таго]]></form>
+        <token><![CDATA[таго:]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+    </cluster>
+    <cluster n="18">
+      <item left="1">
+        <form><![CDATA[адказала]]></form>
+        <token><![CDATA[адказала]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[пакрыўджанасцю]]></form>
+        <token><![CDATA[пакрыўджанасцю]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[нейкай]]></form>
+        <token><![CDATA[нейкай]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[з]]></form>
+        <token><![CDATA[з]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[Ты]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[плюнь]]></form>
+        <token><![CDATA[плюнь,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[бабка]]></form>
+        <token><![CDATA[бабка,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+    </cluster>
+    <cluster n="19">
+      <item left="1">
+        <form><![CDATA[плюнь]]></form>
+        <token><![CDATA[плюнь,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[Ты]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[бабка]]></form>
+        <token><![CDATA[бабка.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[адказала]]></form>
+        <token><![CDATA[адказала]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[гэта]]></form>
+        <token><![CDATA[гэта,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[бо]]></form>
+        <token><![CDATA[бо]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[усё]]></form>
+        <token><![CDATA[ўсё]]></token>
+      </item>
+    </cluster>
+    <cluster n="20">
+      <item left="1">
+        <form><![CDATA[мне]]></form>
+        <token><![CDATA[мне,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[скажы]]></form>
+        <token><![CDATA[скажы]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што:]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[чаго]]></form>
+        <token><![CDATA[чаго]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[мы]]></form>
+        <token><![CDATA[мы]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[свеце]]></form>
+        <token><![CDATA[свеце]]></token>
+      </item>
+    </cluster>
+    <cluster n="21">
+      <item left="1">
+        <form><![CDATA[жывём]]></form>
+        <token><![CDATA[жывём?]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[свеце]]></form>
+        <token><![CDATA[свеце]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[мы]]></form>
+        <token><![CDATA[мы]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[ведала]]></form>
+        <token><![CDATA[ведала,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[які]]></form>
+        <token><![CDATA[які]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[тон]]></form>
+        <token><![CDATA[тон]]></token>
+      </item>
+    </cluster>
+    <cluster n="22">
+      <item left="1">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[дык]]></form>
+        <token><![CDATA[Дык]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[нічога]]></form>
+        <token><![CDATA[нічога.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[болей]]></form>
+        <token><![CDATA[болей]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[ведаеш]]></form>
+        <token><![CDATA[ведаеш,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[чаго]]></form>
+        <token><![CDATA[чаго]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[мы]]></form>
+        <token><![CDATA[мы]]></token>
+      </item>
+    </cluster>
+    <cluster n="23">
+      <item left="1">
+        <form><![CDATA[так]]></form>
+        <token><![CDATA[Так,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[пахаваюць]]></form>
+        <token><![CDATA[пахаваюць.]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[тады]]></form>
+        <token><![CDATA[тады]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[смерць]]></form>
+        <token><![CDATA[смерць,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка:]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[кажаш]]></form>
+        <token><![CDATA[кажаш]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[праўду]]></form>
+        <token><![CDATA[праўду.]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[Не]]></token>
+      </item>
+    </cluster>
+    <cluster n="24">
+      <item left="1">
+        <form><![CDATA[дрэнна]]></form>
+        <token><![CDATA[дрэнна,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[памрэ]]></form>
+        <token><![CDATA[памрэ.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[памерці]]></form>
+        <token><![CDATA[памерці]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[трэба]]></form>
+        <token><![CDATA[трэба]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[уміраць]]></form>
+        <token><![CDATA[ўміраць!]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[Што]]></token>
+      </item>
+    </cluster>
+    <cluster n="25">
+      <item left="1">
+        <form><![CDATA[няма]]></form>
+        <token><![CDATA[няма!]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[ж]]></form>
+        <token><![CDATA[ж]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[чаму]]></form>
+        <token><![CDATA[чаму]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[панічыку]]></form>
+        <token><![CDATA[панічыку,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[пачала]]></form>
+        <token><![CDATA[пачала]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[пералічаць]]></form>
+        <token><![CDATA[пералічаць]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[расхвальваць]]></form>
+        <token><![CDATA[расхвальваць]]></token>
+      </item>
+    </cluster>
+    <cluster n="26">
+      <item left="1">
+        <form><![CDATA[твой]]></form>
+        <token><![CDATA[твой,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[як]]></form>
+        <token><![CDATA[як]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[ну]]></form>
+        <token><![CDATA[«Ну,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[ужо]]></form>
+        <token><![CDATA[ўжо:]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[паніч]]></form>
+        <token><![CDATA[паніч?»]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што]]></token>
+      </item>
+    </cluster>
+    <cluster n="27">
+      <item left="1">
+        <form><![CDATA[думаеш]]></form>
+        <token><![CDATA[думаеш,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[ці]]></form>
+        <token><![CDATA[Ці]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[харошыя]]></form>
+        <token><![CDATA[харошыя.]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[жаніць]]></form>
+        <token><![CDATA[жаніць]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[мяне]]></form>
+        <token><![CDATA[мяне?]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[самі]]></form>
+        <token><![CDATA[Самі,]]></token>
+      </item>
+    </cluster>
+    <cluster n="28">
+      <item left="1">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[чалавека]]></form>
+        <token><![CDATA[чалавека.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[сушаць]]></form>
+        <token><![CDATA[сушаць]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[пашапчы]]></form>
+        <token><![CDATA[пашапчы,]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[каб]]></form>
+        <token><![CDATA[каб]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[я]]></form>
+        <token><![CDATA[я]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[ад]]></form>
+        <token><![CDATA[ад]]></token>
+      </item>
+    </cluster>
+    <cluster n="29">
+      <item left="1">
+        <form><![CDATA[шуткуеце]]></form>
+        <token><![CDATA[шуткуеце!]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[усё]]></form>
+        <token><![CDATA[ўсё]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[вы]]></form>
+        <token><![CDATA[вы]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[паніч]]></form>
+        <token><![CDATA[паніч,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[устала]]></form>
+        <token><![CDATA[ўстала,]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[пазяхнула]]></form>
+        <token><![CDATA[пазяхнула]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[зірнула]]></form>
+        <token><![CDATA[зірнула]]></token>
+      </item>
+    </cluster>
+    <cluster n="30">
+      <item left="1">
+        <form><![CDATA[зазначыла]]></form>
+        <token><![CDATA[зазначыла]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[свецяцца]]></form>
+        <token><![CDATA[свецяцца,]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[вокны]]></form>
+        <token><![CDATA[вокны]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[яшчэ]]></form>
+        <token><![CDATA[яшчэ]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[пасядзі]]></form>
+        <token><![CDATA[Пасядзі]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[яшчэ]]></form>
+        <token><![CDATA[яшчэ]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[трохі]]></form>
+        <token><![CDATA[трохі.]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[Не,]]></token>
+      </item>
+    </cluster>
+    <cluster n="31">
+      <item left="1">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[І]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[позна]]></form>
+        <token><![CDATA[позна.]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[панічок]]></form>
+        <token><![CDATA[панічок,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[Не,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[паволі]]></form>
+        <token><![CDATA[паволі]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[павярнулася]]></form>
+        <token><![CDATA[павярнулася]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[сваю]]></form>
+        <token><![CDATA[сваю]]></token>
+      </item>
+    </cluster>
+    <cluster n="32">
+      <item left="1">
+        <form><![CDATA[прамовіла]]></form>
+        <token><![CDATA[прамовіла]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[нараспеў]]></form>
+        <token><![CDATA[нараспеў]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[крыху]]></form>
+        <token><![CDATA[крыху]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[дома]]></form>
+        <token><![CDATA[дома!]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[лабановіч]]></form>
+        <token><![CDATA[Лабановіч]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[чуў]]></form>
+        <token><![CDATA[чуў]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[гэту]]></form>
+        <token><![CDATA[гэту]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[размову]]></form>
+        <token><![CDATA[размову.]]></token>
+      </item>
+    </cluster>
+    <cluster n="33">
+      <item left="1">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[бабкі]]></form>
+        <token><![CDATA[бабкі:]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[ён]]></form>
+        <token><![CDATA[ён]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[сярдзіты]]></form>
+        <token><![CDATA[сярдзіты?]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[І]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[калі]]></form>
+        <token><![CDATA[калі]]></token>
+      </item>
+    </cluster>
+    <cluster n="34">
+      <item left="1">
+        <form><![CDATA[яму]]></form>
+        <token><![CDATA[яму]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[казала]]></form>
+        <token><![CDATA[казала]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[якой]]></form>
+        <token><![CDATA[якой]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[аб]]></form>
+        <token><![CDATA[аб]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[відаць]]></form>
+        <token><![CDATA[Відаць,]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[яна]]></form>
+        <token><![CDATA[яна]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[ішла]]></form>
+        <token><![CDATA[ішла]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+    </cluster>
+    <cluster n="35">
+      <item left="1">
+        <form><![CDATA[нупрэя]]></form>
+        <token><![CDATA[Нупрэя]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[да]]></form>
+        <token><![CDATA[да]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[кінулася]]></form>
+        <token><![CDATA[кінулася]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[раптоўна]]></form>
+        <token><![CDATA[раптоўна]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[Што]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[я]]></form>
+        <token><![CDATA[я]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[прыйшла]]></form>
+        <token><![CDATA[прыйшла]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+    </cluster>
+    <cluster n="36">
+      <item left="1">
+        <form><![CDATA[лапаць]]></form>
+        <token><![CDATA[лапаць.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[падплятаў]]></form>
+        <token><![CDATA[падплятаў]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[бародкаю]]></form>
+        <token><![CDATA[бародкаю,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[сівою]]></form>
+        <token><![CDATA[сівою]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[стукачыха]]></form>
+        <token><![CDATA[Стукачыха]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[прала]]></form>
+        <token><![CDATA[прала]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[кудзелю]]></form>
+        <token><![CDATA[кудзелю.]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[грук]]></form>
+        <token><![CDATA[Грук]]></token>
+      </item>
+    </cluster>
+    <cluster n="37">
+      <item left="1">
+        <form><![CDATA[запытала]]></form>
+        <token><![CDATA[запытала]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[святкуе]]></form>
+        <token><![CDATA[святкуе?]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[хто]]></form>
+        <token><![CDATA[Хто]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[няма]]></form>
+        <token><![CDATA[няма.]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[тацяна]]></form>
+        <token><![CDATA[Тацяна.]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[я]]></form>
+        <token><![CDATA[Я]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[сама]]></form>
+        <token><![CDATA[сама]]></token>
+      </item>
+    </cluster>
+    <cluster n="38">
+      <item left="1">
+        <form><![CDATA[вылічыла]]></form>
+        <token><![CDATA[вылічыла]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[пакроў]]></form>
+        <token><![CDATA[Пакроў,]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[ад]]></form>
+        <token><![CDATA[ад]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[нядзелі]]></form>
+        <token><![CDATA[нядзелі]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[тацяна]]></form>
+        <token><![CDATA[Тацяна.]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[колькі]]></form>
+        <token><![CDATA[Колькі]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[ж]]></form>
+        <token><![CDATA[ж]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[гэта]]></form>
+        <token><![CDATA[гэта]]></token>
+      </item>
+    </cluster>
+    <cluster n="39">
+      <item left="1">
+        <form><![CDATA[стукач]]></form>
+        <token><![CDATA[Стукач,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[дзед]]></form>
+        <token><![CDATA[Дзед]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[дзён]]></form>
+        <token><![CDATA[дзён.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[адзінаццаць]]></form>
+        <token><![CDATA[адзінаццаць]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[тацяна]]></form>
+        <token><![CDATA[Тацяна,]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[нявесткі]]></form>
+        <token><![CDATA[нявесткі]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[старэйшы]]></form>
+        <token><![CDATA[старэйшы]]></token>
+      </item>
+    </cluster>
+    <cluster n="40">
+      <item left="1">
+        <form><![CDATA[прайшло]]></form>
+        <token><![CDATA[прайшло.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[якраз]]></form>
+        <token><![CDATA[якраз]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[дзён]]></form>
+        <token><![CDATA[дзён]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[адзінаццаць]]></form>
+        <token><![CDATA[адзінаццаць]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[тацяна]]></form>
+        <token><![CDATA[Тацяна]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[вынесла]]></form>
+        <token><![CDATA[вынесла]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[сваю]]></form>
+        <token><![CDATA[сваю]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[прасніцу]]></form>
+        <token><![CDATA[прасніцу,]]></token>
+      </item>
+    </cluster>
+    <cluster n="41">
+      <item left="1">
+        <form><![CDATA[цябе]]></form>
+        <token><![CDATA[цябе]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[як]]></form>
+        <token><![CDATA[як]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[забылася]]></form>
+        <token><![CDATA[забылася,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[тацяна]]></form>
+        <token><![CDATA[Тацяна]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[сваім]]></form>
+        <token><![CDATA[сваім]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[дварэ]]></form>
+        <token><![CDATA[дварэ]]></token>
+      </item>
+    </cluster>
+    <cluster n="42">
+      <item left="1">
+        <form><![CDATA[увайшла]]></form>
+        <token><![CDATA[увайшла]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[якраз]]></form>
+        <token><![CDATA[Якраз]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[кнігу]]></form>
+        <token><![CDATA[кнігу.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[за]]></form>
+        <token><![CDATA[за]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[панічыку]]></form>
+        <token><![CDATA[панічыку,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[чай]]></form>
+        <token><![CDATA[чай]]></token>
+      </item>
+    </cluster>
+    <cluster n="43">
+      <item left="1">
+        <form><![CDATA[ляцяць]]></form>
+        <token><![CDATA[ляцяць!]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[чайкі]]></form>
+        <token><![CDATA[чайкі]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[куды]]></form>
+        <token><![CDATA[Куды]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[прымячай]]></form>
+        <token><![CDATA[Прымячай,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[падперла]]></form>
+        <token><![CDATA[падперла]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[рукамі]]></form>
+        <token><![CDATA[рукамі]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[шчокі]]></form>
+        <token><![CDATA[шчокі]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+    </cluster>
+    <cluster n="44">
+      <item left="1">
+        <form><![CDATA[ведаеш]]></form>
+        <token><![CDATA[ведаеш,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[былі]]></form>
+        <token><![CDATA[былі!]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[здаровенькі]]></form>
+        <token><![CDATA[здаровенькі]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[я]]></form>
+        <token><![CDATA[я]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[надумаўся]]></form>
+        <token><![CDATA[надумаўся?]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[бог]]></form>
+        <token><![CDATA[Бог]]></token>
+      </item>
+    </cluster>
+    <cluster n="45">
+      <item left="1">
+        <form><![CDATA[нядзельку]]></form>
+        <token><![CDATA[нядзельку,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[гэтую]]></form>
+        <token><![CDATA[гэтую]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[У]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[панічок]]></form>
+        <token><![CDATA[панічок.]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка...]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[ці]]></form>
+        <token><![CDATA[ці]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[там]]></form>
+        <token><![CDATA[там]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[нікога]]></form>
+        <token><![CDATA[нікога]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[няма]]></form>
+        <token><![CDATA[няма?]]></token>
+      </item>
+    </cluster>
+    <cluster n="46">
+      <item left="1">
+        <form><![CDATA[адказала]]></form>
+        <token><![CDATA[адказала]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[ціха]]></form>
+        <token><![CDATA[ціха]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[панічку]]></form>
+        <token><![CDATA[панічку!]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[няма]]></form>
+        <token><![CDATA[Няма,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[нарыхтаваўшыся]]></form>
+        <token><![CDATA[нарыхтаваўшыся]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[пачуць]]></form>
+        <token><![CDATA[пачуць]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[нешта]]></form>
+        <token><![CDATA[нешта]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[вельмі]]></form>
+        <token><![CDATA[вельмі]]></token>
+      </item>
+    </cluster>
+    <cluster n="47">
+      <item left="1">
+        <form><![CDATA[нават]]></form>
+        <token><![CDATA[нават,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[дык]]></form>
+        <token><![CDATA[Дык]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[цікавае]]></form>
+        <token><![CDATA[цікавае.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[вельмі]]></form>
+        <token><![CDATA[вельмі]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[нядзельку]]></form>
+        <token><![CDATA[нядзельку,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[а]]></token>
+      </item>
+    </cluster>
+    <cluster n="48">
+      <item left="1">
+        <form><![CDATA[смеючыся]]></form>
+        <token><![CDATA[смеючыся,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[сказала]]></form>
+        <token><![CDATA[сказала,]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[іншае]]></form>
+        <token><![CDATA[іншае,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[пра]]></form>
+        <token><![CDATA[пра]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[чаму]]></form>
+        <token><![CDATA[Чаму]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[ж]]></form>
+        <token><![CDATA[ж,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[панічок]]></form>
+        <token><![CDATA[панічок,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+    </cluster>
+    <cluster n="49">
+      <item left="1">
+        <form><![CDATA[мусіць]]></form>
+        <token><![CDATA[мусіць,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[гэта]]></form>
+        <token><![CDATA[Гэта,]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[увайшоў]]></form>
+        <token><![CDATA[увайшоў.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[хтось]]></form>
+        <token><![CDATA[хтось]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[да]]></form>
+        <token><![CDATA[да]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[цябе]]></form>
+        <token><![CDATA[цябе]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[хтось]]></form>
+        <token><![CDATA[хтось]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[лячыцца]]></form>
+        <token><![CDATA[лячыцца]]></token>
+      </item>
+    </cluster>
+    <cluster n="50">
+      <item left="1">
+        <form><![CDATA[прыйшоў]]></form>
+        <token><![CDATA[прыйшоў.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[лячыцца]]></form>
+        <token><![CDATA[лячыцца]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[хтось]]></form>
+        <token><![CDATA[хтось]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[цябе]]></form>
+        <token><![CDATA[цябе]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[борздзенька]]></form>
+        <token><![CDATA[борздзенька]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[павярнулася]]></form>
+        <token><![CDATA[павярнулася]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+    </cluster>
+    <cluster n="51">
+      <item left="1">
+        <form><![CDATA[ужо]]></form>
+        <token><![CDATA[ужо]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[ж]]></form>
+        <token><![CDATA[ж]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[хіба]]></form>
+        <token><![CDATA[хіба]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[чубіла]]></form>
+        <token><![CDATA[чубіла]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[вас]]></form>
+        <token><![CDATA[вас,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[пане]]></form>
+        <token><![CDATA[пане]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[настаўніку]]></form>
+        <token><![CDATA[настаўніку?]]></token>
+      </item>
+    </cluster>
+    <cluster n="52">
+      <item left="1">
+        <form><![CDATA[настаўніку]]></form>
+        <token><![CDATA[настаўніку,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[пане]]></form>
+        <token><![CDATA[пане]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[вас]]></form>
+        <token><![CDATA[вас,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[дык]]></form>
+        <token><![CDATA[Дык]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[чубіць]]></form>
+        <token><![CDATA[чубіць?]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[спытаў]]></form>
+        <token><![CDATA[спытаў]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[ён]]></form>
+        <token><![CDATA[ён,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+    </cluster>
+    <cluster n="53">
+      <item left="1">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[скуль]]></form>
+        <token><![CDATA[скуль]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[яна]]></form>
+        <token><![CDATA[яна.]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[гэта]]></form>
+        <token><![CDATA[гэта]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[ведаеш]]></form>
+        <token><![CDATA[ведаеш?]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[як]]></form>
+        <token><![CDATA[як]]></token>
+      </item>
+    </cluster>
+    <cluster n="54">
+      <item left="1">
+        <form><![CDATA[заплаціць]]></form>
+        <token><![CDATA[заплаціць.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[пачастуе]]></form>
+        <token><![CDATA[пачастуе,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[І]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[ведала]]></form>
+        <token><![CDATA[ведала]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[усіх]]></form>
+        <token><![CDATA[ўсіх]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[будачнікаў]]></form>
+        <token><![CDATA[будачнікаў]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[па]]></form>
+        <token><![CDATA[па]]></token>
+      </item>
+    </cluster>
+    <cluster n="55">
+      <item left="1">
+        <form><![CDATA[зробіш]]></form>
+        <token><![CDATA[зробіш,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[нічога]]></form>
+        <token><![CDATA[Нічога]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[ж]]></form>
+        <token><![CDATA[ж?]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка:]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[трэба]]></form>
+        <token><![CDATA[трэба]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[папакутаваць]]></form>
+        <token><![CDATA[папакутаваць]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[пайду]]></form>
+        <token><![CDATA[пайду.]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[якая]]></form>
+        <token><![CDATA[Якая]]></token>
+      </item>
+    </cluster>
+    <cluster n="56">
+      <item left="1">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[закусіце]]></form>
+        <token><![CDATA[закусіце.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[любіш]]></form>
+        <token><![CDATA[любіш]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[выпіць]]></form>
+        <token><![CDATA[выпіць?]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[хто]]></form>
+        <token><![CDATA[хто]]></token>
+      </item>
+    </cluster>
+    <cluster n="57">
+      <item left="1">
+        <form><![CDATA[далажыла]]></form>
+        <token><![CDATA[далажыла]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[паненка]]></form>
+        <token><![CDATA[паненка,]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[пыталася]]></form>
+        <token><![CDATA[пыталася]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[панічыку]]></form>
+        <token><![CDATA[панічыку,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[настаўніку]]></form>
+        <token><![CDATA[настаўніку,]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[як]]></form>
+        <token><![CDATA[як]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[толькі]]></form>
+        <token><![CDATA[толькі]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[ён]]></form>
+        <token><![CDATA[ён]]></token>
+      </item>
+    </cluster>
+    <cluster n="58">
+      <item left="1">
+        <form><![CDATA[кажа]]></form>
+        <token><![CDATA[кажа,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[ж]]></form>
+        <token><![CDATA[ж,]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[дзе]]></form>
+        <token><![CDATA[«Дзе]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[гасцей]]></form>
+        <token><![CDATA[гасцей.]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[твой]]></form>
+        <token><![CDATA[твой]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[паніч]]></form>
+        <token><![CDATA[паніч?»]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[пайшоў]]></form>
+        <token><![CDATA[«Пайшоў,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[кажу]]></form>
+        <token><![CDATA[кажу,]]></token>
+      </item>
+    </cluster>
+    <cluster n="59">
+      <item left="1">
+        <form><![CDATA[добра]]></form>
+        <token><![CDATA[Добра,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[паніча]]></form>
+        <token><![CDATA[паніча».]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[у]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[кніг]]></form>
+        <token><![CDATA[кніг]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[кніг]]></form>
+        <token><![CDATA[кніг]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[я]]></form>
+        <token><![CDATA[я]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[выберу]]></form>
+        <token><![CDATA[выберу.]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[лабановіч]]></form>
+        <token><![CDATA[Лабановіч]]></token>
+      </item>
+    </cluster>
+    <cluster n="60">
+      <item left="1">
+        <form><![CDATA[вось]]></form>
+        <token><![CDATA[Вось,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[сабе]]></form>
+        <token><![CDATA[сабе.]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[сам]]></form>
+        <token><![CDATA[сам]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[ён]]></form>
+        <token><![CDATA[ён]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[кнігі]]></form>
+        <token><![CDATA[кнігі,]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[занясі]]></form>
+        <token><![CDATA[занясі]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[іх]]></form>
+        <token><![CDATA[іх,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[калі]]></form>
+        <token><![CDATA[калі]]></token>
+      </item>
+    </cluster>
+    <cluster n="61">
+      <item left="1">
+        <form><![CDATA[панічок]]></form>
+        <token><![CDATA[панічок.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[добра]]></form>
+        <token><![CDATA[Добра,]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[паненцы]]></form>
+        <token><![CDATA[паненцы.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[ласка]]></form>
+        <token><![CDATA[ласка,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[крыху]]></form>
+        <token><![CDATA[крыху]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[пастаяла]]></form>
+        <token><![CDATA[пастаяла,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[як]]></form>
+        <token><![CDATA[як]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[бы]]></form>
+        <token><![CDATA[бы]]></token>
+      </item>
+    </cluster>
+    <cluster n="62">
+      <item left="1">
+        <form><![CDATA[вярнуўшыся]]></form>
+        <token><![CDATA[вярнуўшыся,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[сказала]]></form>
+        <token><![CDATA[сказала,]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[прыйшоў]]></form>
+        <token><![CDATA[прыйшоў?]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[па]]></form>
+        <token><![CDATA[Па]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[праўдзе]]></form>
+        <token><![CDATA[праўдзе]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[сказаць]]></form>
+        <token><![CDATA[сказаць,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[настаўніку]]></form>
+        <token><![CDATA[настаўніку]]></token>
+      </item>
+    </cluster>
+    <cluster n="63">
+      <item left="1">
+        <form><![CDATA[стаяла]]></form>
+        <token><![CDATA[стаяла]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[грубкі]]></form>
+        <token><![CDATA[грубкі]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[каля]]></form>
+        <token><![CDATA[каля]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[кухні]]></form>
+        <token><![CDATA[кухні]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[а]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[зэдліку]]></form>
+        <token><![CDATA[зэдліку]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[пры]]></form>
+        <token><![CDATA[пры]]></token>
+      </item>
+    </cluster>
+    <cluster n="64">
+      <item left="1">
+        <form><![CDATA[запыталася]]></form>
+        <token><![CDATA[запыталася]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[панічок]]></form>
+        <token><![CDATA[панічок?]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[вы]]></form>
+        <token><![CDATA[вы,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[гэта]]></form>
+        <token><![CDATA[гэта]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[пайду]]></form>
+        <token><![CDATA[Пайду,]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[бабка]]></form>
+        <token><![CDATA[бабка,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[лавіць]]></form>
+        <token><![CDATA[лавіць]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[таго]]></form>
+        <token><![CDATA[таго]]></token>
+      </item>
+    </cluster>
+    <cluster n="65">
+      <item left="1">
+        <form><![CDATA[пайду]]></form>
+        <token><![CDATA[Пайду,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[бабка]]></form>
+        <token><![CDATA[бабка.]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[запыталася]]></form>
+        <token><![CDATA[запыталася]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[панічок]]></form>
+        <token><![CDATA[панічок?]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[лавіць]]></form>
+        <token><![CDATA[лавіць]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[таго]]></form>
+        <token><![CDATA[таго]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[чорта]]></form>
+        <token><![CDATA[чорта,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што]]></token>
+      </item>
+    </cluster>
+    <cluster n="66">
+      <item left="1">
+        <form><![CDATA[іду]]></form>
+        <token><![CDATA[«Іду,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[кухні]]></form>
+        <token><![CDATA[кухні:]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[з]]></form>
+        <token><![CDATA[з]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[выходзіў]]></form>
+        <token><![CDATA[выходзіў]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[лавіць]]></form>
+        <token><![CDATA[лавіць]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[таго]]></form>
+        <token><![CDATA[таго]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[чорта]]></form>
+        <token><![CDATA[чорта,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што]]></token>
+      </item>
+    </cluster>
+    <cluster n="67">
+      <item left="1">
+        <form><![CDATA[мая]]></form>
+        <token><![CDATA[мая]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[кажа]]></form>
+        <token><![CDATA[кажа]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[як]]></form>
+        <token><![CDATA[як]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[бы]]></form>
+        <token><![CDATA[бы,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка?]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[дык]]></form>
+        <token><![CDATA[Дык,]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[кажаш]]></form>
+        <token><![CDATA[кажаш,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[добра]]></form>
+        <token><![CDATA[добра]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[было]]></form>
+        <token><![CDATA[было]]></token>
+      </item>
+    </cluster>
+    <cluster n="68">
+      <item left="1">
+        <form><![CDATA[твая]]></form>
+        <token><![CDATA[твая]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[можа]]></form>
+        <token><![CDATA[можа,]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[Што,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[вячэры]]></form>
+        <token><![CDATA[вячэры.]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[патрапіць]]></form>
+        <token><![CDATA[патрапіць]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[так]]></form>
+        <token><![CDATA[так]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[зрабіць]]></form>
+        <token><![CDATA[зрабіць?]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[спытаў]]></form>
+        <token><![CDATA[спытаў]]></token>
+      </item>
+    </cluster>
+    <cluster n="69">
+      <item left="1">
+        <form><![CDATA[мая]]></form>
+        <token><![CDATA[мая]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[ж]]></form>
+        <token><![CDATA[ж]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[затое]]></form>
+        <token><![CDATA[Затое]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[вячэру]]></form>
+        <token><![CDATA[вячэру.]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[шаптаць]]></form>
+        <token><![CDATA[шаптаць]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[умее]]></form>
+        <token><![CDATA[умее.]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[шаптацьто]]></form>
+        <token><![CDATA[Шаптаць-то]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[яна]]></form>
+        <token><![CDATA[яна]]></token>
+      </item>
+    </cluster>
+    <cluster n="70">
+      <item left="1">
+        <form><![CDATA[пытала]]></form>
+        <token><![CDATA[пытала]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[гасцілася]]></form>
+        <token><![CDATA[гасцілася?]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[панічок]]></form>
+        <token><![CDATA[панічок,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[вам]]></form>
+        <token><![CDATA[вам,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[лабановіча]]></form>
+        <token><![CDATA[Лабановіча.]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[ой]]></form>
+        <token><![CDATA[Ой,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[бабка]]></form>
+        <token><![CDATA[бабка,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[добра]]></form>
+        <token><![CDATA[добра]]></token>
+      </item>
+    </cluster>
+    <cluster n="71">
+      <item left="1">
+        <form><![CDATA[ой]]></form>
+        <token><![CDATA[Ой,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[лабановіча]]></form>
+        <token><![CDATA[Лабановіча.]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[бабка]]></form>
+        <token><![CDATA[бабка]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[пытала]]></form>
+        <token><![CDATA[пытала]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[добра]]></form>
+        <token><![CDATA[добра]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[гасцілася]]></form>
+        <token><![CDATA[гасцілася!]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[было]]></form>
+        <token><![CDATA[«Было]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што]]></token>
+      </item>
+    </cluster>
+    <cluster n="72">
+      <item left="1">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[Не,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[крыху]]></form>
+        <token><![CDATA[крыху?]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[б]]></form>
+        <token><![CDATA[б]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[хлебанулі]]></form>
+        <token><![CDATA[хлебанулі]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[есці]]></form>
+        <token><![CDATA[есці]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[я]]></form>
+        <token><![CDATA[я]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[хачу]]></form>
+        <token><![CDATA[хачу.]]></token>
+      </item>
+    </cluster>
+    <cluster n="73">
+      <item left="1">
+        <form><![CDATA[жа]]></form>
+        <token><![CDATA[жа,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[як]]></form>
+        <token><![CDATA[як]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[частаваў]]></form>
+        <token><![CDATA[частаваў?]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка!]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[дзякаваць]]></form>
+        <token><![CDATA[Дзякаваць]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[богу]]></form>
+        <token><![CDATA[Богу,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[пачаставаў]]></form>
+        <token><![CDATA[пачаставаў]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+    </cluster>
+    <cluster n="74">
+      <item left="1">
+        <form><![CDATA[казала]]></form>
+        <token><![CDATA[казала]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[паненка]]></form>
+        <token><![CDATA[паненка,]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[гэта]]></form>
+        <token><![CDATA[гэта]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[душа]]></form>
+        <token><![CDATA[душа]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[уздыхала]]></form>
+        <token><![CDATA[ўздыхала.]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[уся]]></form>
+        <token><![CDATA[Уся]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+    </cluster>
+    <cluster n="75">
+      <item left="1">
+        <form><![CDATA[яна]]></form>
+        <token><![CDATA[яна,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[ж]]></form>
+        <token><![CDATA[ж]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[чаго]]></form>
+        <token><![CDATA[Чаго]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[падгадаваць]]></form>
+        <token><![CDATA[падгадаваць.]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[так]]></form>
+        <token><![CDATA[так]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[рана]]></form>
+        <token><![CDATA[рана]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[памерла]]></form>
+        <token><![CDATA[памерла?]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[пытаў]]></form>
+        <token><![CDATA[пытаў]]></token>
+      </item>
+    </cluster>
+    <cluster n="76">
+      <item left="1">
+        <form><![CDATA[пачуў]]></form>
+        <token><![CDATA[пачуў,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[хто]]></form>
+        <token><![CDATA[хто]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[яе]]></form>
+        <token><![CDATA[яе]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[казала]]></form>
+        <token><![CDATA[казала:]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[ой]]></form>
+        <token><![CDATA[Ой,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[панічыку]]></form>
+        <token><![CDATA[панічыку,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[цяжка]]></form>
+        <token><![CDATA[цяжка]]></token>
+      </item>
+    </cluster>
+    <cluster n="77">
+      <item left="1">
+        <form><![CDATA[настаўнікам]]></form>
+        <token><![CDATA[настаўнікам.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[з]]></form>
+        <token><![CDATA[з]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[спаткацца]]></form>
+        <token><![CDATA[спаткацца]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[была]]></form>
+        <token><![CDATA[была]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[кабеціна]]></form>
+        <token><![CDATA[кабеціна]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[добрая]]></form>
+        <token><![CDATA[добрая,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[чулая]]></form>
+        <token><![CDATA[чулая]]></token>
+      </item>
+    </cluster>
+    <cluster n="78">
+      <item left="1">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[настаўніка]]></form>
+        <token><![CDATA[настаўніка,]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[ад]]></form>
+        <token><![CDATA[ад]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[цішком]]></form>
+        <token><![CDATA[цішком]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[якая]]></form>
+        <token><![CDATA[якая]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[ні]]></form>
+        <token><![CDATA[ні]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[была]]></form>
+        <token><![CDATA[была]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[яна]]></form>
+        <token><![CDATA[яна]]></token>
+      </item>
+    </cluster>
+    <cluster n="79">
+      <item left="1">
+        <form><![CDATA[была]]></form>
+        <token><![CDATA[была]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[паляшучка]]></form>
+        <token><![CDATA[паляшучка]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[старая]]></form>
+        <token><![CDATA[старая]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[добрая]]></form>
+        <token><![CDATA[добрая,]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[спагадная]]></form>
+        <token><![CDATA[спагадная]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[сваім]]></form>
+        <token><![CDATA[сваім]]></token>
+      </item>
+    </cluster>
+    <cluster n="80">
+      <item left="1">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[песня]]></form>
+        <token><![CDATA[песня.]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[звонкая]]></form>
+        <token><![CDATA[звонкая]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[гледзячы]]></form>
+        <token><![CDATA[гледзячы]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[ёй]]></form>
+        <token><![CDATA[ёй]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[услед]]></form>
+        <token><![CDATA[услед,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[сама]]></form>
+        <token><![CDATA[сама]]></token>
+      </item>
+    </cluster>
+    <cluster n="81">
+      <item left="1">
+        <form><![CDATA[зазначала]]></form>
+        <token><![CDATA[зазначала]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[паненка]]></form>
+        <token><![CDATA[паненка!]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[вясёлая]]></form>
+        <token><![CDATA[вясёлая]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[смешная]]></form>
+        <token><![CDATA[Смешная,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[апавяданне]]></form>
+        <token><![CDATA[Апавяданне]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[бабкі]]></form>
+        <token><![CDATA[бабкі]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[аб]]></form>
+        <token><![CDATA[аб]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[доме]]></form>
+        <token><![CDATA[доме]]></token>
+      </item>
+    </cluster>
+    <cluster n="82">
+      <item left="1">
+        <form><![CDATA[мяне]]></form>
+        <token><![CDATA[мяне]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[адгадалі]]></form>
+        <token><![CDATA[адгадалі?]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[знахарка]]></form>
+        <token><![CDATA[знахарка;]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[я]]></form>
+        <token><![CDATA[я]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[яе]]></form>
+        <token><![CDATA[яе]]></token>
+      </item>
+    </cluster>
+    <cluster n="83">
+      <item left="1">
+        <form><![CDATA[табе]]></form>
+        <token><![CDATA[табе,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[На]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[кухню]]></form>
+        <token><![CDATA[кухню.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[у]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[пяцьдзесятку]]></form>
+        <token><![CDATA[пяцьдзесятку,]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[прынясі]]></form>
+        <token><![CDATA[прынясі]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[гарэлкі]]></form>
+        <token><![CDATA[гарэлкі.]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[вы]]></form>
+        <token><![CDATA[Вы]]></token>
+      </item>
+    </cluster>
+    <cluster n="84">
+      <item left="1">
+        <form><![CDATA[спыталася]]></form>
+        <token><![CDATA[спыталася]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[шэптам]]></form>
+        <token><![CDATA[шэптам]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[частавацімеце]]></form>
+        <token><![CDATA[частавацімеце?]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[панічок]]></form>
+        <token><![CDATA[панічок,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што?]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[Не]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[варта]]></form>
+        <token><![CDATA[варта,]]></token>
+      </item>
+    </cluster>
+    <cluster n="85">
+      <item left="1">
+        <form><![CDATA[панічыку]]></form>
+        <token><![CDATA[панічыку!]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[сабе]]></form>
+        <token><![CDATA[Сабе,]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[ссыпку]]></form>
+        <token><![CDATA[ссыпку?]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[каму]]></form>
+        <token><![CDATA[Каму]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[гаворачы]]></form>
+        <token><![CDATA[гаворачы]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[гэта]]></form>
+        <token><![CDATA[гэта,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[аж]]></form>
+        <token><![CDATA[аж]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[сіпала]]></form>
+        <token><![CDATA[сіпала]]></token>
+      </item>
+    </cluster>
+    <cluster n="86">
+      <item left="1">
+        <form><![CDATA[ну]]></form>
+        <token><![CDATA[Ну,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[саханюка]]></form>
+        <token><![CDATA[Саханюка.]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[прыезд]]></form>
+        <token><![CDATA[прыезд]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[прынясі]]></form>
+        <token><![CDATA[прынясі]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[гарэлкі]]></form>
+        <token><![CDATA[гарэлкі;]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[вып'ем]]></form>
+        <token><![CDATA[вып'ем,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[тады]]></form>
+        <token><![CDATA[тады,]]></token>
+      </item>
+    </cluster>
+    <cluster n="87">
+      <item left="1">
+        <form><![CDATA[прыйдзем]]></form>
+        <token><![CDATA[прыйдзем.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[сэнсу]]></form>
+        <token><![CDATA[сэнсу]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[да]]></form>
+        <token><![CDATA[да]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[можа]]></form>
+        <token><![CDATA[можа,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[сярдзіта]]></form>
+        <token><![CDATA[сярдзіта]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[накінула]]></form>
+        <token><![CDATA[накінула]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[сябе]]></form>
+        <token><![CDATA[сябе]]></token>
+      </item>
+    </cluster>
+    <cluster n="88">
+      <item left="1">
+        <form><![CDATA[мая]]></form>
+        <token><![CDATA[мая]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[кажа]]></form>
+        <token><![CDATA[кажа]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[ведаеце]]></form>
+        <token><![CDATA[Ведаеце,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка:]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[быццам]]></form>
+        <token><![CDATA[быццам]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[вы]]></form>
+        <token><![CDATA[вы]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[прыехалі]]></form>
+        <token><![CDATA[прыехалі]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[збіраць]]></form>
+        <token><![CDATA[збіраць]]></token>
+      </item>
+    </cluster>
+    <cluster n="89">
+      <item left="1">
+        <form><![CDATA[гаварыла]]></form>
+        <token><![CDATA[гаварыла]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[абурліва]]></form>
+        <token><![CDATA[абурліва]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[пасаромеўся]]></form>
+        <token><![CDATA[пасаромеўся,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[ён]]></form>
+        <token><![CDATA[ён]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[як]]></form>
+        <token><![CDATA[Як]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[гэта]]></form>
+        <token><![CDATA[гэта]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[можна]]></form>
+        <token><![CDATA[можна]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[забраць]]></form>
+        <token><![CDATA[забраць]]></token>
+      </item>
+    </cluster>
+    <cluster n="90">
+      <item left="1">
+        <form><![CDATA[школы]]></form>
+        <token><![CDATA[школы?]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[чужое]]></form>
+        <token><![CDATA[чужое]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[з]]></form>
+        <token><![CDATA[з]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[ссыпку]]></form>
+        <token><![CDATA[ссыпку]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[была]]></form>
+        <token><![CDATA[была]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[зацікаўлена]]></form>
+        <token><![CDATA[зацікаўлена]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[гэтай]]></form>
+        <token><![CDATA[гэтай]]></token>
+      </item>
+    </cluster>
+    <cluster n="91">
+      <item left="1">
+        <form><![CDATA[увайшла]]></form>
+        <token><![CDATA[увайшла]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[час]]></form>
+        <token><![CDATA[час]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[гэты]]></form>
+        <token><![CDATA[гэты]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[На]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[вы]]></form>
+        <token><![CDATA[вы,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[панічок]]></form>
+        <token><![CDATA[панічок,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[усё]]></form>
+        <token><![CDATA[усё]]></token>
+      </item>
+    </cluster>
+    <cluster n="92">
+      <item left="1">
+        <form><![CDATA[пішу]]></form>
+        <token><![CDATA[Пішу,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[пішаце]]></form>
+        <token><![CDATA[пішаце.]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[усё]]></form>
+        <token><![CDATA[усё]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[панічок]]></form>
+        <token><![CDATA[панічок,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[ці]]></form>
+        <token><![CDATA[ці]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[чулі]]></form>
+        <token><![CDATA[чулі]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[вы]]></form>
+        <token><![CDATA[вы,]]></token>
+      </item>
+    </cluster>
+    <cluster n="93">
+      <item left="1">
+        <form><![CDATA[бо]]></form>
+        <token><![CDATA[бо]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[яго]]></form>
+        <token><![CDATA[яго,]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[спыняў]]></form>
+        <token><![CDATA[спыняў]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[бабкі]]></form>
+        <token><![CDATA[бабкі]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[хацела]]></form>
+        <token><![CDATA[хацела]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[трывожыць]]></form>
+        <token><![CDATA[трывожыць]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[паніча]]></form>
+        <token><![CDATA[«паніча».]]></token>
+      </item>
+    </cluster>
+    <cluster n="94">
+      <item left="1">
+        <form><![CDATA[гэта]]></form>
+        <token><![CDATA[гэта,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[Што]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[усмешкамі]]></form>
+        <token><![CDATA[ўсмешкамі.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[прыветнымі]]></form>
+        <token><![CDATA[прыветнымі]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[тут]]></form>
+        <token><![CDATA[тут]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[робіш]]></form>
+        <token><![CDATA[робіш?]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[ваду]]></form>
+        <token><![CDATA[Ваду,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[панічок]]></form>
+        <token><![CDATA[панічок,]]></token>
+      </item>
+    </cluster>
+    <cluster n="95">
+      <item left="1">
+        <form><![CDATA[вады]]></form>
+        <token><![CDATA[вады.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[свянцовай]]></form>
+        <token><![CDATA[свянцовай]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[сабе]]></form>
+        <token><![CDATA[сабе]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[набрала]]></form>
+        <token><![CDATA[набрала]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[гэты]]></form>
+        <token><![CDATA[гэты]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[дзень]]></form>
+        <token><![CDATA[дзень]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[адчувала]]></form>
+        <token><![CDATA[адчувала]]></token>
+      </item>
+    </cluster>
+    <cluster n="96">
+      <item left="1">
+        <form><![CDATA[прамовіла]]></form>
+        <token><![CDATA[прамовіла]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[старасты]]></form>
+        <token><![CDATA[старасты!]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[ад]]></form>
+        <token><![CDATA[ад]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[прынеслі]]></form>
+        <token><![CDATA[прынеслі]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[увайшоўшы]]></form>
+        <token><![CDATA[увайшоўшы]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[пакойчык]]></form>
+        <token><![CDATA[пакойчык.]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[зірнуўшы]]></form>
+        <token><![CDATA[Зірнуўшы]]></token>
+      </item>
+    </cluster>
+    <cluster n="97">
+      <item left="1">
+        <form><![CDATA[чытаць]]></form>
+        <token><![CDATA[чытаць.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[пачаў]]></form>
+        <token><![CDATA[пачаў]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[распрануўся]]></form>
+        <token><![CDATA[распрануўся]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[стаяла]]></form>
+        <token><![CDATA[стаяла,]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[падпёршы]]></form>
+        <token><![CDATA[падпёршы]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[рукою]]></form>
+        <token><![CDATA[рукою]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[шчаку]]></form>
+        <token><![CDATA[шчаку,]]></token>
+      </item>
+    </cluster>
+    <cluster n="98">
+      <item left="1">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[смяялася]]></form>
+        <token><![CDATA[смяялася]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[яго]]></form>
+        <token><![CDATA[яго,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[ад]]></form>
+        <token><![CDATA[Ад]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[каго]]></form>
+        <token><![CDATA[каго]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[ж]]></form>
+        <token><![CDATA[ж,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[панічыку]]></form>
+        <token><![CDATA[панічыку,]]></token>
+      </item>
+    </cluster>
+    <cluster n="99">
+      <item left="1">
+        <form><![CDATA[цікавая]]></form>
+        <token><![CDATA[цікавая]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[запытала]]></form>
+        <token><![CDATA[запытала]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[ліст]]></form>
+        <token><![CDATA[ліст?]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[такі]]></form>
+        <token><![CDATA[такі]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[гэта]]></form>
+        <token><![CDATA[гэта,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[бабка]]></form>
+        <token><![CDATA[бабка,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[піша]]></form>
+        <token><![CDATA[піша]]></token>
+      </item>
+    </cluster>
+    <cluster n="100">
+      <item left="1">
+        <form><![CDATA[гэта]]></form>
+        <token><![CDATA[гэта,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[бабка]]></form>
+        <token><![CDATA[бабка.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[цікавая]]></form>
+        <token><![CDATA[цікавая]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[піша]]></form>
+        <token><![CDATA[піша]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[адна]]></form>
+        <token><![CDATA[адна]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[паненка]]></form>
+        <token><![CDATA[паненка.]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[піша]]></form>
+        <token><![CDATA[Піша,]]></token>
+      </item>
+    </cluster>
+    <cluster n="101">
+      <item left="1">
+        <form><![CDATA[заўважыла]]></form>
+        <token><![CDATA[заўважыла]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[пакрыўдзіўшыся]]></form>
+        <token><![CDATA[пакрыўдзіўшыся,]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[крыху]]></form>
+        <token><![CDATA[крыху]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[добрая]]></form>
+        <token><![CDATA[добрая,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[У]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[канцы]]></form>
+        <token><![CDATA[канцы]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[ліста]]></form>
+        <token><![CDATA[ліста]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[сябар]]></form>
+        <token><![CDATA[сябар]]></token>
+      </item>
+    </cluster>
+    <cluster n="102">
+      <item left="1">
+        <form><![CDATA[сарвацца]]></form>
+        <token><![CDATA[сарвацца.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[можа]]></form>
+        <token><![CDATA[можа]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[просьбы]]></form>
+        <token><![CDATA[просьбы]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[пазірала]]></form>
+        <token><![CDATA[пазірала]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[настаўніка]]></form>
+        <token><![CDATA[настаўніка.]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[яе]]></form>
+        <token><![CDATA[Яе]]></token>
+      </item>
+    </cluster>
+    <cluster n="103">
+      <item left="1">
+        <form><![CDATA[ціха]]></form>
+        <token><![CDATA[ціха.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[трымаўся]]></form>
+        <token><![CDATA[трымаўся]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[настаўнік]]></form>
+        <token><![CDATA[настаўнік]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[але]]></form>
+        <token><![CDATA[Але]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[крыху]]></form>
+        <token><![CDATA[крыху]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[заспакоілася]]></form>
+        <token><![CDATA[заспакоілася.]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[лабановіч]]></form>
+        <token><![CDATA[Лабановіч]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[устаў]]></form>
+        <token><![CDATA[устаў]]></token>
+      </item>
+    </cluster>
+    <cluster n="104">
+      <item left="1">
+        <form><![CDATA[пазвала]]></form>
+        <token><![CDATA[пазвала]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[панічыку]]></form>
+        <token><![CDATA[Панічыку!]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[сном]]></form>
+        <token><![CDATA[сном.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[нейкім]]></form>
+        <token><![CDATA[нейкім]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[толькі]]></form>
+        <token><![CDATA[толькі]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[увайшоўшы]]></form>
+        <token><![CDATA[ўвайшоўшы]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+    </cluster>
+    <cluster n="105">
+      <item left="1">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[чаму]]></form>
+        <token><![CDATA[Чаму]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[здзівіўся]]></form>
+        <token><![CDATA[здзівіўся.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[моцна]]></form>
+        <token><![CDATA[моцна]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[так]]></form>
+        <token><![CDATA[так]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[пытаеш]]></form>
+        <token><![CDATA[пытаеш?]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[відаць]]></form>
+        <token><![CDATA[Відаць]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[было]]></form>
+        <token><![CDATA[было,]]></token>
+      </item>
+    </cluster>
+    <cluster n="106">
+      <item left="1">
+        <form><![CDATA[прамовіла]]></form>
+        <token><![CDATA[прамовіла]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[таемна]]></form>
+        <token><![CDATA[таемна]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[панічыку]]></form>
+        <token><![CDATA[панічыку,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[ведаеце]]></form>
+        <token><![CDATA[ведаеце,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[я]]></form>
+        <token><![CDATA[я]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[ізноў]]></form>
+        <token><![CDATA[ізноў]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[вам]]></form>
+        <token><![CDATA[вам]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[шаптала]]></form>
+        <token><![CDATA[шаптала!]]></token>
+      </item>
+    </cluster>
+    <cluster n="107">
+      <item left="1">
+        <form><![CDATA[настаўнік]]></form>
+        <token><![CDATA[настаўнік.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[зацікаўлены]]></form>
+        <token><![CDATA[зацікаўлены]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[запытаў]]></form>
+        <token><![CDATA[запытаў]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[шаптала]]></form>
+        <token><![CDATA[шаптала?]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[глядзела]]></form>
+        <token><![CDATA[глядзела]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[яго]]></form>
+        <token><![CDATA[яго]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[колькі]]></form>
+        <token><![CDATA[колькі]]></token>
+      </item>
+    </cluster>
+    <cluster n="108">
+      <item left="1">
+        <form><![CDATA[прамовіла]]></form>
+        <token><![CDATA[прамовіла]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[ціха]]></form>
+        <token><![CDATA[ціха]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[мыслі]]></form>
+        <token><![CDATA[мыслі,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[нядобрыя]]></form>
+        <token><![CDATA[нядобрыя]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[гледзячы]]></form>
+        <token><![CDATA[гледзячы]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[настаўніку]]></form>
+        <token><![CDATA[настаўніку]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[вочы]]></form>
+        <token><![CDATA[вочы;]]></token>
+      </item>
+    </cluster>
+    <cluster n="109">
+      <item left="1">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[тое]]></form>
+        <token><![CDATA[тое,]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[было]]></form>
+        <token><![CDATA[было]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[гэты]]></form>
+        <token><![CDATA[гэты]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[момант]]></form>
+        <token><![CDATA[момант]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[мела]]></form>
+        <token><![CDATA[мела]]></token>
+      </item>
+    </cluster>
+    <cluster n="110">
+      <item left="1">
+        <form><![CDATA[сказала]]></form>
+        <token><![CDATA[сказала]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[панічыку]]></form>
+        <token><![CDATA[панічыку!]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[забілі]]></form>
+        <token><![CDATA[забілі,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[лявона]]></form>
+        <token><![CDATA[Лявона]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[ускочыўшы]]></form>
+        <token><![CDATA[ускочыўшы]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[пакой]]></form>
+        <token><![CDATA[пакой.]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[хто]]></form>
+        <token><![CDATA[Хто]]></token>
+      </item>
+    </cluster>
+    <cluster n="111">
+      <item left="1">
+        <form><![CDATA[увайшла]]></form>
+        <token><![CDATA[увайшла]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[пакой]]></form>
+        <token><![CDATA[пакой]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[Што,]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[бабка]]></form>
+        <token><![CDATA[бабка,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[добрага]]></form>
+        <token><![CDATA[добрага]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[скажаш]]></form>
+        <token><![CDATA[скажаш?]]></token>
+      </item>
+    </cluster>
+    <cluster n="112">
+      <item left="1">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[Што,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[бабка]]></form>
+        <token><![CDATA[бабка.]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[увайшла]]></form>
+        <token><![CDATA[увайшла]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[пакой]]></form>
+        <token><![CDATA[пакой]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[добрага]]></form>
+        <token><![CDATA[добрага]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[скажаш]]></form>
+        <token><![CDATA[скажаш?]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[нічога]]></form>
+        <token><![CDATA[нічога,]]></token>
+      </item>
+    </cluster>
+    <cluster n="113">
+      <item left="1">
+        <form><![CDATA[ламаліся]]></form>
+        <token><![CDATA[ламаліся...]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[галовы]]></form>
+        <token><![CDATA[галовы]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[аб]]></form>
+        <token><![CDATA[аб]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[калы]]></form>
+        <token><![CDATA[калы]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[змоўкла]]></form>
+        <token><![CDATA[змоўкла]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[другім]]></form>
+        <token><![CDATA[другім]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[голасам]]></form>
+        <token><![CDATA[голасам]]></token>
+      </item>
+    </cluster>
+    <cluster n="114">
+      <item left="1">
+        <form><![CDATA[навіны]]></form>
+        <token><![CDATA[навіны]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[гэтае]]></form>
+        <token><![CDATA[гэтае]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[дзеля]]></form>
+        <token><![CDATA[дзеля]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[прыйшла]]></form>
+        <token><![CDATA[прыйшла]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[сюды]]></form>
+        <token><![CDATA[сюды.]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+    </cluster>
+    <cluster n="115">
+      <item left="1">
+        <form><![CDATA[я]]></form>
+        <token><![CDATA[я,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[сюды]]></form>
+        <token><![CDATA[сюды.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[прыйшла]]></form>
+        <token><![CDATA[прыйшла]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[заўтра]]></form>
+        <token><![CDATA[заўтра]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[раненькараненька]]></form>
+        <token><![CDATA[раненька-раненька]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[воласць]]></form>
+        <token><![CDATA[воласць]]></token>
+      </item>
+    </cluster>
+    <cluster n="116">
+      <item left="1">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[Не,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[даў]]></form>
+        <token><![CDATA[даў?]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[падводу]]></form>
+        <token><![CDATA[падводу]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[стараста]]></form>
+        <token><![CDATA[стараста]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[пайду]]></form>
+        <token><![CDATA[пайду]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[памалу]]></form>
+        <token><![CDATA[памалу.]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[цяпер]]></form>
+        <token><![CDATA[Цяпер]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[масленіца]]></form>
+        <token><![CDATA[Масленіца,]]></token>
+      </item>
+    </cluster>
+    <cluster n="117">
+      <item left="1">
+        <form><![CDATA[xxix]]></form>
+        <token><![CDATA[XXIX]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[думаць]]></form>
+        <token><![CDATA[думаць.]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[пачаў]]></form>
+        <token><![CDATA[пачаў]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[ёй]]></form>
+        <token><![CDATA[ёй,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[дома]]></form>
+        <token><![CDATA[дома]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[паніч]]></form>
+        <token><![CDATA[паніч?]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[пытала]]></form>
+        <token><![CDATA[пытала]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[панна]]></form>
+        <token><![CDATA[панна]]></token>
+      </item>
+    </cluster>
+    <cluster n="118">
+      <item left="1">
+        <form><![CDATA[ж]]></form>
+        <token><![CDATA[ж,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[глядзі]]></form>
+        <token><![CDATA[Глядзі]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[кухню]]></form>
+        <token><![CDATA[кухню.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[кажы]]></form>
+        <token><![CDATA[кажы]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[панічу]]></form>
+        <token><![CDATA[панічу,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што]]></token>
+      </item>
+    </cluster>
+    <cluster n="119">
+      <item left="1">
+        <form><![CDATA[божа]]></form>
+        <token><![CDATA[Божа,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[барані]]></form>
+        <token><![CDATA[Барані]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[была]]></form>
+        <token><![CDATA[была.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[тут]]></form>
+        <token><![CDATA[тут]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[кажы]]></form>
+        <token><![CDATA[кажы!]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[сказала]]></form>
+        <token><![CDATA[сказала]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+    </cluster>
+    <cluster n="120">
+      <item left="1">
+        <form><![CDATA[песню]]></form>
+        <token><![CDATA[песню.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[нейкую]]></form>
+        <token><![CDATA[нейкую]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[спявала]]></form>
+        <token><![CDATA[спявала]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[яна]]></form>
+        <token><![CDATA[Яна]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[ціха]]></form>
+        <token><![CDATA[ціха]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[усміхнулася]]></form>
+        <token><![CDATA[ўсміхнулася]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[сама]]></form>
+        <token><![CDATA[сама]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[сабе]]></form>
+        <token><![CDATA[сабе]]></token>
+      </item>
+    </cluster>
+    <cluster n="121">
+      <item left="1">
+        <form><![CDATA[хвіліну]]></form>
+        <token><![CDATA[хвіліну]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[праз]]></form>
+        <token><![CDATA[Праз]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[задумалася]]></form>
+        <token><![CDATA[задумалася.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[чымсі]]></form>
+        <token><![CDATA[чымсі]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[сама]]></form>
+        <token><![CDATA[сама]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[увайшла]]></form>
+        <token><![CDATA[ўвайшла]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[пакойчык]]></form>
+        <token><![CDATA[пакойчык.]]></token>
+      </item>
+    </cluster>
+    <cluster n="122">
+      <item left="1">
+        <form><![CDATA[мяне]]></form>
+        <token><![CDATA[мяне.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[пра]]></form>
+        <token><![CDATA[пра]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[падумае]]></form>
+        <token><![CDATA[падумае]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[няхай]]></form>
+        <token><![CDATA[няхай]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[узяла]]></form>
+        <token><![CDATA[ўзяла]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[рукі]]></form>
+        <token><![CDATA[рукі]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[букецік]]></form>
+        <token><![CDATA[букецік,]]></token>
+      </item>
+    </cluster>
+    <cluster n="123">
+      <item left="1">
+        <form><![CDATA[настаўнік]]></form>
+        <token><![CDATA[настаўнік.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[сябе]]></form>
+        <token><![CDATA[сябе]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[сам]]></form>
+        <token><![CDATA[сам]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[спытаў]]></form>
+        <token><![CDATA[спытаў]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка!]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[гукнуў]]></form>
+        <token><![CDATA[гукнуў]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[ён]]></form>
+        <token><![CDATA[ён.]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што,]]></token>
+      </item>
+    </cluster>
+    <cluster n="124">
+      <item left="1">
+        <form><![CDATA[прыйшла]]></form>
+        <token><![CDATA[Прыйшла]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[скрыпнулі]]></form>
+        <token><![CDATA[скрыпнулі.]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[дзверы]]></form>
+        <token><![CDATA[Дзверы]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[яшчэ]]></form>
+        <token><![CDATA[яшчэ?]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[ці]]></form>
+        <token><![CDATA[Ці]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[бабка]]></form>
+        <token><![CDATA[бабка,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+    </cluster>
+    <cluster n="125">
+      <item left="1">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[ці]]></form>
+        <token><![CDATA[Ці]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[бабка]]></form>
+        <token><![CDATA[бабка.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[прыйшла]]></form>
+        <token><![CDATA[Прыйшла]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[ведаеш]]></form>
+        <token><![CDATA[ведаеш,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[хто]]></form>
+        <token><![CDATA[хто]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[гэта]]></form>
+        <token><![CDATA[гэта]]></token>
+      </item>
+    </cluster>
+    <cluster n="126">
+      <item left="1">
+        <form><![CDATA[красак]]></form>
+        <token><![CDATA[красак?]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[сюды]]></form>
+        <token><![CDATA[сюды]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[прынёс]]></form>
+        <token><![CDATA[прынёс]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[гэта]]></form>
+        <token><![CDATA[гэта]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[перш]]></form>
+        <token><![CDATA[перш]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[прыкінулася]]></form>
+        <token><![CDATA[прыкінулася,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[нічога]]></form>
+        <token><![CDATA[нічога]]></token>
+      </item>
+    </cluster>
+    <cluster n="127">
+      <item left="1">
+        <form><![CDATA[хітрыла]]></form>
+        <token><![CDATA[хітрыла]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[ні]]></form>
+        <token><![CDATA[ні]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[як]]></form>
+        <token><![CDATA[як]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[але]]></form>
+        <token><![CDATA[Але,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[настаўнік]]></form>
+        <token><![CDATA[настаўнік]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[прачытаў]]></form>
+        <token><![CDATA[прачытаў]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[яе]]></form>
+        <token><![CDATA[яе]]></token>
+      </item>
+    </cluster>
+    <cluster n="128">
+      <item left="1">
+        <form><![CDATA[ой]]></form>
+        <token><![CDATA[Ой,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[прыкідваецца]]></form>
+        <token><![CDATA[прыкідваецца.]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[яна]]></form>
+        <token><![CDATA[яна]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка!]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[грэх]]></form>
+        <token><![CDATA[Грэх]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[табе]]></form>
+        <token><![CDATA[табе,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[старэнькай]]></form>
+        <token><![CDATA[старэнькай,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[хлусіць]]></form>
+        <token><![CDATA[хлусіць]]></token>
+      </item>
+    </cluster>
+    <cluster n="129">
+      <item left="1">
+        <form><![CDATA[хітрыла]]></form>
+        <token><![CDATA[хітрыла]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[яшчэ]]></form>
+        <token><![CDATA[яшчэ]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[усё]]></form>
+        <token><![CDATA[усё]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[маладзіцы]]></form>
+        <token><![CDATA[маладзіцы,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[але]]></form>
+        <token><![CDATA[Але]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[ёй]]></form>
+        <token><![CDATA[ёй]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[самой]]></form>
+        <token><![CDATA[самой]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[неўтрыванне]]></form>
+        <token><![CDATA[неўтрыванне]]></token>
+      </item>
+    </cluster>
+    <cluster n="130">
+      <item left="1">
+        <form><![CDATA[прамовіла]]></form>
+        <token><![CDATA[прамовіла]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[злавіце]]></form>
+        <token><![CDATA[злавіце!]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[панічок]]></form>
+        <token><![CDATA[панічок,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[злавіце]]></form>
+        <token><![CDATA[Злавіце,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[гатовая]]></form>
+        <token><![CDATA[гатовая]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[нават]]></form>
+        <token><![CDATA[нават]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[памагаць]]></form>
+        <token><![CDATA[памагаць]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[свайму]]></form>
+        <token><![CDATA[свайму]]></token>
+      </item>
+    </cluster>
+    <cluster n="131">
+      <item left="1">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[чаму]]></form>
+        <token><![CDATA[Чаму]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[паненку]]></form>
+        <token><![CDATA[паненку.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[злавіць]]></form>
+        <token><![CDATA[злавіць]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[ідзеш]]></form>
+        <token><![CDATA[ідзеш]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[вуліцу]]></form>
+        <token><![CDATA[вуліцу]]></token>
+      </item>
+    </cluster>
+    <cluster n="132">
+      <item left="1">
+        <form><![CDATA[спяваць]]></form>
+        <token><![CDATA[спяваць?]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[песні]]></form>
+        <token><![CDATA[песні]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[вуліцу]]></form>
+        <token><![CDATA[вуліцу]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[паглядзела]]></form>
+        <token><![CDATA[паглядзела]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[настаўніка]]></form>
+        <token><![CDATA[настаўніка,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[ці]]></form>
+        <token><![CDATA[ці]]></token>
+      </item>
+    </cluster>
+    <cluster n="133">
+      <item left="1">
+        <form><![CDATA[трэба]]></form>
+        <token><![CDATA[трэба,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[дык]]></form>
+        <token><![CDATA[Дык]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[варочаецца]]></form>
+        <token><![CDATA[варочаецца.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[карыстацца]]></form>
+        <token><![CDATA[карыстацца]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[ёю]]></form>
+        <token><![CDATA[ёю]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[узяць]]></form>
+        <token><![CDATA[ўзяць]]></token>
+      </item>
+    </cluster>
+    <cluster n="134">
+      <item left="1">
+        <form><![CDATA[здаровы]]></form>
+        <token><![CDATA[здаровы!]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[заставайцеся]]></form>
+        <token><![CDATA[Заставайцеся]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[позна]]></form>
+        <token><![CDATA[позна.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[даволі]]></form>
+        <token><![CDATA[даволі]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[пасунулася]]></form>
+        <token><![CDATA[пасунулася]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[кухню]]></form>
+        <token><![CDATA[кухню]]></token>
+      </item>
+    </cluster>
+    <cluster n="135">
+      <item left="1">
+        <form><![CDATA[ваша]]></form>
+        <token><![CDATA[Ваша]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[палажылі]]></form>
+        <token><![CDATA[палажылі.]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[стол]]></form>
+        <token><![CDATA[стол]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[ілгарка]]></form>
+        <token><![CDATA[ілгарка,]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[самі]]></form>
+        <token><![CDATA[самі]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[вы]]></form>
+        <token><![CDATA[вы]]></token>
+      </item>
+    </cluster>
+    <cluster n="136">
+      <item left="1">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[Ты,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[кухні]]></form>
+        <token><![CDATA[кухні.]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[яна]]></form>
+        <token><![CDATA[Яна]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[тут]]></form>
+        <token><![CDATA[тут?]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[пытае]]></form>
+        <token><![CDATA[пытае]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[ціха]]></form>
+        <token><![CDATA[ціха]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[ядвіся]]></form>
+        <token><![CDATA[Ядвіся.]]></token>
+      </item>
+    </cluster>
+    <cluster n="137">
+      <item left="1">
+        <form><![CDATA[ядвіся]]></form>
+        <token><![CDATA[Ядвіся.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[ціха]]></form>
+        <token><![CDATA[ціха]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[пытае]]></form>
+        <token><![CDATA[пытае]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[тут]]></form>
+        <token><![CDATA[тут?]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[варочаецца]]></form>
+        <token><![CDATA[варочаецца]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[печы]]></form>
+        <token><![CDATA[печы.]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[тут]]></form>
+        <token><![CDATA[Тут,]]></token>
+      </item>
+    </cluster>
+    <cluster n="138">
+      <item left="1">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[чаму]]></form>
+        <token><![CDATA[чаму]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[паненачка]]></form>
+        <token><![CDATA[паненачка!]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[дзвярэй]]></form>
+        <token><![CDATA[дзвярэй]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[замкнула]]></form>
+        <token><![CDATA[замкнула?]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[от]]></form>
+        <token><![CDATA[От,]]></token>
+      </item>
+    </cluster>
+    <cluster n="139">
+      <item left="1">
+        <form><![CDATA[заўтра]]></form>
+        <token><![CDATA[Заўтра,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[сплю]]></form>
+        <token><![CDATA[сплю.]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[ж]]></form>
+        <token><![CDATA[ж]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[паеду]]></form>
+        <token><![CDATA[паеду.]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[паедзеце]]></form>
+        <token><![CDATA[Паедзеце,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[паненачка]]></form>
+        <token><![CDATA[паненачка?]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[пытае]]></form>
+        <token><![CDATA[пытае]]></token>
+      </item>
+    </cluster>
+    <cluster n="140">
+      <item left="1">
+        <form><![CDATA[пытае]]></form>
+        <token><![CDATA[пытае]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[паненачка]]></form>
+        <token><![CDATA[паненачка?]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[паедзеце]]></form>
+        <token><![CDATA[Паедзеце,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[паеду]]></form>
+        <token><![CDATA[паеду.]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[устае]]></form>
+        <token><![CDATA[устае]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[садзіцца]]></form>
+        <token><![CDATA[садзіцца]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+    </cluster>
+    <cluster n="141">
+      <item left="1">
+        <form><![CDATA[скажы]]></form>
+        <token><![CDATA[Скажы,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[ж]]></form>
+        <token><![CDATA[ж?]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[якімі]]></form>
+        <token><![CDATA[якімі]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[ну]]></form>
+        <token><![CDATA[Ну,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка!]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[добрымі]]></form>
+        <token><![CDATA[Добрымі]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[вочкамі]]></form>
+        <token><![CDATA[вочкамі,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[успагаднымі]]></form>
+        <token><![CDATA[успагаднымі]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[вочкамі]]></form>
+        <token><![CDATA[вочкамі,]]></token>
+      </item>
+    </cluster>
+    <cluster n="142">
+      <item left="1">
+        <form><![CDATA[адказвае]]></form>
+        <token><![CDATA[адказвае]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[хітра]]></form>
+        <token><![CDATA[хітра]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[забылася]]></form>
+        <token><![CDATA[Забылася,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[старая]]></form>
+        <token><![CDATA[старая.]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[каго]]></form>
+        <token><![CDATA[каго]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[бабка]]></form>
+        <token><![CDATA[бабка,]]></token>
+      </item>
+    </cluster>
+    <cluster n="143">
+      <item left="1">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[каго]]></form>
+        <token><![CDATA[каго]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[а]]></form>
+        <token><![CDATA[А]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[бабка]]></form>
+        <token><![CDATA[бабка.]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[больш]]></form>
+        <token><![CDATA[больш]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[любіш]]></form>
+        <token><![CDATA[любіш:]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[мяне]]></form>
+        <token><![CDATA[мяне]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[ці]]></form>
+        <token><![CDATA[ці]]></token>
+      </item>
+    </cluster>
+    <cluster n="144">
+      <item left="1">
+        <form><![CDATA[прамовіла]]></form>
+        <token><![CDATA[прамовіла]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[тонам]]></form>
+        <token><![CDATA[тонам]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[іншым]]></form>
+        <token><![CDATA[іншым]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[зусім]]></form>
+        <token><![CDATA[зусім]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[ёй]]></form>
+        <token><![CDATA[ёй]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[адразу]]></form>
+        <token><![CDATA[адразу]]></token>
+      </item>
+    </cluster>
+    <cluster n="145">
+      <item left="1">
+        <form><![CDATA[ж]]></form>
+        <token><![CDATA[ж,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[мне]]></form>
+        <token><![CDATA[Мне]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[жанчынасвацця]]></form>
+        <token><![CDATA[жанчына-свацця.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[абудзілася]]></form>
+        <token><![CDATA[абудзілася]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[толькі]]></form>
+        <token><![CDATA[толькі]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[шаснаццаты]]></form>
+        <token><![CDATA[шаснаццаты]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[год]]></form>
+        <token><![CDATA[год,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[мне]]></form>
+        <token><![CDATA[мне]]></token>
+      </item>
+    </cluster>
+    <cluster n="146">
+      <item left="1">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[Не,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[казаў]]></form>
+        <token><![CDATA[казаў.]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[гэта]]></form>
+        <token><![CDATA[гэта]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[пра]]></form>
+        <token><![CDATA[пра]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[ніколі]]></form>
+        <token><![CDATA[ніколі]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[казаў]]></form>
+        <token><![CDATA[казаў]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[ён]]></form>
+        <token><![CDATA[ён]]></token>
+      </item>
+    </cluster>
+    <cluster n="147">
+      <item left="1">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[нічога]]></form>
+        <token><![CDATA[Нічога]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[скажа]]></form>
+        <token><![CDATA[скажа.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[яшчэ]]></form>
+        <token><![CDATA[яшчэ]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[ведаеш]]></form>
+        <token><![CDATA[ведаеш!]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[ведаю]]></form>
+        <token><![CDATA[Ведаю,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[паненачка]]></form>
+        <token><![CDATA[паненачка,]]></token>
+      </item>
+    </cluster>
+    <cluster n="148">
+      <item left="1">
+        <form><![CDATA[далёка]]></form>
+        <token><![CDATA[Далёка,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[ехацімеце]]></form>
+        <token><![CDATA[ехацімеце?]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[паненачка]]></form>
+        <token><![CDATA[паненачка,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[вы]]></form>
+        <token><![CDATA[вы,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[у]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[маёнтак]]></form>
+        <token><![CDATA[маёнтак,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[службу]]></form>
+        <token><![CDATA[службу.]]></token>
+      </item>
+    </cluster>
+    <cluster n="149">
+      <item left="1">
+        <form><![CDATA[гэтым]]></form>
+        <token><![CDATA[гэтым]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[аб]]></form>
+        <token><![CDATA[аб]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[думае]]></form>
+        <token><![CDATA[думае]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[Што]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка?]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[ну]]></form>
+        <token><![CDATA[Ну,]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[усё]]></form>
+        <token><![CDATA[усё]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[роўна]]></form>
+        <token><![CDATA[роўна:]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[сягоння]]></form>
+        <token><![CDATA[сягоння]]></token>
+      </item>
+    </cluster>
+    <cluster n="150">
+      <item left="1">
+        <form><![CDATA[ну]]></form>
+        <token><![CDATA[Ну,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[кухню]]></form>
+        <token><![CDATA[кухню.]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[у]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[зноў]]></form>
+        <token><![CDATA[зноў]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[дабранач]]></form>
+        <token><![CDATA[дабранач!]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[дабранач]]></form>
+        <token><![CDATA[Дабранач,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[паненачка]]></form>
+        <token><![CDATA[паненачка!]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[адклікаецца]]></form>
+        <token><![CDATA[адклікаецца]]></token>
+      </item>
+    </cluster>
+    <cluster n="151">
+      <item left="1">
+        <form><![CDATA[адклікаецца]]></form>
+        <token><![CDATA[адклікаецца]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[паненачка]]></form>
+        <token><![CDATA[паненачка!]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[дабранач]]></form>
+        <token><![CDATA[Дабранач,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[дабранач]]></form>
+        <token><![CDATA[дабранач!]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[з]]></form>
+        <token><![CDATA[з]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[печы]]></form>
+        <token><![CDATA[печы.]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[бабка]]></form>
+        <token><![CDATA[Бабка]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+    </cluster>
+    <cluster n="152">
+      <item left="1">
+        <form><![CDATA[печы]]></form>
+        <token><![CDATA[печы.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[з]]></form>
+        <token><![CDATA[з]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[бабка]]></form>
+        <token><![CDATA[бабка]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[адклікаецца]]></form>
+        <token><![CDATA[адклікаецца]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[спіць]]></form>
+        <token><![CDATA[спіць.]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[яна]]></form>
+        <token><![CDATA[Яна]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[проста]]></form>
+        <token><![CDATA[проста]]></token>
+      </item>
+    </cluster>
+    <cluster n="153">
+      <item left="1">
+        <form><![CDATA[але]]></form>
+        <token><![CDATA[Але]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[жыццём]]></form>
+        <token><![CDATA[жыццём.]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[ёй]]></form>
+        <token><![CDATA[ёй]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[адведзены]]></form>
+        <token><![CDATA[адведзены]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[любіць]]></form>
+        <token><![CDATA[любіць]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[свой]]></form>
+        <token><![CDATA[свой]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[гэты]]></form>
+        <token><![CDATA[гэты]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[куточак]]></form>
+        <token><![CDATA[куточак.]]></token>
+      </item>
+    </cluster>
+    <cluster n="154">
+      <item left="1">
+        <form><![CDATA[але]]></form>
+        <token><![CDATA[але]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[шчылінах]]></form>
+        <token><![CDATA[шчылінах,]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[шалпочуцца]]></form>
+        <token><![CDATA[шалпочуцца]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[чуе]]></form>
+        <token><![CDATA[чуе]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[іх]]></form>
+        <token><![CDATA[іх,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[хоць]]></form>
+        <token><![CDATA[хоць]]></token>
+      </item>
+    </cluster>
+    <cluster n="155">
+      <item left="1">
+        <form><![CDATA[добры]]></form>
+        <token><![CDATA[добры,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[дзень]]></form>
+        <token><![CDATA[Дзень]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[гаршчочак]]></form>
+        <token><![CDATA[гаршчочак.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[прыстаўляе]]></form>
+        <token><![CDATA[прыстаўляе]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка!]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[дзень]]></form>
+        <token><![CDATA[Дзень]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[добры]]></form>
+        <token><![CDATA[добры,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[панічок]]></form>
+        <token><![CDATA[панічок!]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[прыветна]]></form>
+        <token><![CDATA[прыветна]]></token>
+      </item>
+    </cluster>
+    <cluster n="156">
+      <item left="1">
+        <form><![CDATA[адказвае]]></form>
+        <token><![CDATA[адказвае]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[прыветна]]></form>
+        <token><![CDATA[прыветна]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[панічок]]></form>
+        <token><![CDATA[панічок!]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[добры]]></form>
+        <token><![CDATA[добры,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[хіба]]></form>
+        <token><![CDATA[Хіба]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[ж]]></form>
+        <token><![CDATA[ж,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[панічыку]]></form>
+        <token><![CDATA[панічыку,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[вы]]></form>
+        <token><![CDATA[вы]]></token>
+      </item>
+    </cluster>
+    <cluster n="157">
+      <item left="1">
+        <form><![CDATA[так]]></form>
+        <token><![CDATA[Так,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[прыйшлі]]></form>
+        <token><![CDATA[прыйшлі?]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[пяхотам]]></form>
+        <token><![CDATA[пяхотам]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[вы]]></form>
+        <token><![CDATA[вы]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[пары]]></form>
+        <token><![CDATA[пары]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[сваіх]]></form>
+        <token><![CDATA[сваіх]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[прыехаў]]></form>
+        <token><![CDATA[прыехаў.]]></token>
+      </item>
+    </cluster>
+    <cluster n="158">
+      <item left="1">
+        <form><![CDATA[б]]></form>
+        <token><![CDATA[б.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[ехалі]]></form>
+        <token><![CDATA[ехалі]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[раз'езда]]></form>
+        <token><![CDATA[раз'езда]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[да]]></form>
+        <token><![CDATA[да]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[чымся]]></form>
+        <token><![CDATA[чымся]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[заклапочана]]></form>
+        <token><![CDATA[заклапочана]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[як]]></form>
+        <token><![CDATA[як]]></token>
+      </item>
+    </cluster>
+    <cluster n="159">
+      <item left="1">
+        <form><![CDATA[добра]]></form>
+        <token><![CDATA[Добра,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[яна]]></form>
+        <token><![CDATA[яна.]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[пытае]]></form>
+        <token><![CDATA[пытае]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[паводзіў]]></form>
+        <token><![CDATA[паводзіў?]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[хлопцы]]></form>
+        <token><![CDATA[Хлопцы]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[выдатна]]></form>
+        <token><![CDATA[выдатна]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[паздавалі]]></form>
+        <token><![CDATA[паздавалі]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[экзамены]]></form>
+        <token><![CDATA[экзамены.]]></token>
+      </item>
+    </cluster>
+    <cluster n="160">
+      <item left="1">
+        <form><![CDATA[школ]]></form>
+        <token><![CDATA[школ.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[усіх]]></form>
+        <token><![CDATA[усіх]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[ад]]></form>
+        <token><![CDATA[ад]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[лепш]]></form>
+        <token><![CDATA[лепш]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[весялее]]></form>
+        <token><![CDATA[весялее.]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[відаць]]></form>
+        <token><![CDATA[Відаць,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[ёй]]></form>
+        <token><![CDATA[ёй]]></token>
+      </item>
+    </cluster>
+    <cluster n="161">
+      <item left="1">
+        <form><![CDATA[ты]]></form>
+        <token><![CDATA[ты,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[Што]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[уздыхае]]></form>
+        <token><![CDATA[ўздыхае.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[ціха]]></form>
+        <token><![CDATA[ціха]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[як]]></form>
+        <token><![CDATA[як]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[бы]]></form>
+        <token><![CDATA[бы]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[нечага]]></form>
+        <token><![CDATA[нечага]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[зажурылася]]></form>
+        <token><![CDATA[зажурылася?]]></token>
+      </item>
+    </cluster>
+    <cluster n="162">
+      <item left="1">
+        <form><![CDATA[і]]></form>
+        <token><![CDATA[і]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[уваходзіць]]></form>
+        <token><![CDATA[ўваходзіць]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[туды]]></form>
+        <token><![CDATA[туды]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[ім]]></form>
+        <token><![CDATA[ім]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[можа]]></form>
+        <token><![CDATA[Можа,]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[вам]]></form>
+        <token><![CDATA[вам]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[чаю]]></form>
+        <token><![CDATA[чаю,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[панічыку]]></form>
+        <token><![CDATA[панічыку,]]></token>
+      </item>
+    </cluster>
+    <cluster n="163">
+      <item left="1">
+        <form><![CDATA[прамовіла]]></form>
+        <token><![CDATA[прамовіла]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[смутна]]></form>
+        <token><![CDATA[смутна]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[зусім]]></form>
+        <token><![CDATA[зусім]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[ужо]]></form>
+        <token><![CDATA[ужо]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка.]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[лабановіч]]></form>
+        <token><![CDATA[Лабановіч]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[пачуў]]></form>
+        <token><![CDATA[пачуў,]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[як]]></form>
+        <token><![CDATA[як]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[сціснулася]]></form>
+        <token><![CDATA[сціснулася]]></token>
+      </item>
+    </cluster>
+    <cluster n="164">
+      <item left="1">
+        <form><![CDATA[кажа]]></form>
+        <token><![CDATA[кажа,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[кланяйся]]></form>
+        <token><![CDATA[«Кланяйся,]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[забягала]]></form>
+        <token><![CDATA[забягала.]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[сюды]]></form>
+        <token><![CDATA[сюды]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[свайму]]></form>
+        <token><![CDATA[свайму]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[панічу]]></form>
+        <token><![CDATA[панічу!»]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[паехала]]></form>
+        <token><![CDATA[Паехала,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[панічок]]></form>
+        <token><![CDATA[панічок,]]></token>
+      </item>
+    </cluster>
+    <cluster n="165">
+      <item left="1">
+        <form><![CDATA[кажа]]></form>
+        <token><![CDATA[кажа]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[засмучэнні]]></form>
+        <token><![CDATA[засмучэнні]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[у]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[панічок]]></form>
+        <token><![CDATA[панічок,]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[ну]]></form>
+        <token><![CDATA[Ну,]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[што]]></form>
+        <token><![CDATA[што]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[ж]]></form>
+        <token><![CDATA[ж,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[стараючыся]]></form>
+        <token><![CDATA[стараючыся]]></token>
+      </item>
+    </cluster>
+    <cluster n="166">
+      <item left="1">
+        <form><![CDATA[ставіць]]></form>
+        <token><![CDATA[ставіць.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[самавар]]></form>
+        <token><![CDATA[самавар]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[пайду]]></form>
+        <token><![CDATA[пайду]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[ж]]></form>
+        <token><![CDATA[ж]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[выходзіць]]></form>
+        <token><![CDATA[выходзіць.]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[настаўнік]]></form>
+        <token><![CDATA[Настаўнік]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[застаецца]]></form>
+        <token><![CDATA[застаецца]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[адзін]]></form>
+        <token><![CDATA[адзін,]]></token>
+      </item>
+    </cluster>
+    <cluster n="167">
+      <item left="1">
+        <form><![CDATA[адказу]]></form>
+        <token><![CDATA[адказу.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[даць]]></form>
+        <token><![CDATA[даць]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[мог]]></form>
+        <token><![CDATA[мог]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[прынесла]]></form>
+        <token><![CDATA[прынесла]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[самавар]]></form>
+        <token><![CDATA[самавар.]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[гатоў]]></form>
+        <token><![CDATA[Гатоў,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[панічыку]]></form>
+        <token><![CDATA[панічыку,]]></token>
+      </item>
+    </cluster>
+    <cluster n="168">
+      <item left="1">
+        <form><![CDATA[добра]]></form>
+        <token><![CDATA[Добра,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[дарогі]]></form>
+        <token><![CDATA[дарогі.]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[з]]></form>
+        <token><![CDATA[з]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[ж]]></form>
+        <token><![CDATA[ж]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[я]]></form>
+        <token><![CDATA[я]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[зараз]]></form>
+        <token><![CDATA[зараз]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[буду]]></form>
+        <token><![CDATA[буду]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[піць]]></form>
+        <token><![CDATA[піць.]]></token>
+      </item>
+    </cluster>
+    <cluster n="169">
+      <item left="1">
+        <form><![CDATA[двор]]></form>
+        <token><![CDATA[двор.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[выйшаў]]></form>
+        <token><![CDATA[выйшаў]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[ён]]></form>
+        <token><![CDATA[Ён]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[пазіраючы]]></form>
+        <token><![CDATA[пазіраючы]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[яго]]></form>
+        <token><![CDATA[яго,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[паківала]]></form>
+        <token><![CDATA[паківала]]></token>
+      </item>
+    </cluster>
+    <cluster n="170">
+      <item left="1">
+        <form><![CDATA[дарогу]]></form>
+        <token><![CDATA[дарогу.]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[збірацца]]></form>
+        <token><![CDATA[збірацца]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[стаў]]></form>
+        <token><![CDATA[стаў]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[Бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[часта]]></form>
+        <token><![CDATA[часта]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[уваходзіла]]></form>
+        <token><![CDATA[ўваходзіла]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[у]]></form>
+        <token><![CDATA[ў]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[пакойчык]]></form>
+        <token><![CDATA[пакойчык]]></token>
+      </item>
+    </cluster>
+    <cluster n="171">
+      <item left="1">
+        <form><![CDATA[прамовіла]]></form>
+        <token><![CDATA[прамовіла]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[тужліва]]></form>
+        <token><![CDATA[тужліва]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[галубкі]]></form>
+        <token><![CDATA[галубкі,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[мае]]></form>
+        <token><![CDATA[мае]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка,]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[не]]></form>
+        <token><![CDATA[не]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[вернецеся]]></form>
+        <token><![CDATA[вернецеся]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[вы]]></form>
+        <token><![CDATA[вы,]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[панічыку]]></form>
+        <token><![CDATA[панічыку,]]></token>
+      </item>
+    </cluster>
+    <cluster n="172">
+      <item left="1">
+        <form><![CDATA[настаўніка]]></form>
+        <token><![CDATA[настаўніка,]]></token>
+      </item>
+      <item left="2">
+        <form><![CDATA[праводзячы]]></form>
+        <token><![CDATA[праводзячы]]></token>
+      </item>
+      <item left="3">
+        <form><![CDATA[вечарам]]></form>
+        <token><![CDATA[Вечарам,]]></token>
+      </item>
+      <item left="4">
+        <form><![CDATA[шчаку]]></form>
+        <token><![CDATA[шчаку.]]></token>
+      </item>
+      <item center="0">
+        <token><![CDATA[бабка]]></token>
+        <form><![CDATA[бабка]]></form>
+      </item>
+      <item right="1">
+        <form><![CDATA[заплакала]]></form>
+        <token><![CDATA[заплакала.]]></token>
+      </item>
+      <item right="2">
+        <form><![CDATA[садзячыся]]></form>
+        <token><![CDATA[Садзячыся]]></token>
+      </item>
+      <item right="3">
+        <form><![CDATA[на]]></form>
+        <token><![CDATA[на]]></token>
+      </item>
+      <item right="4">
+        <form><![CDATA[фурманку]]></form>
+        <token><![CDATA[фурманку]]></token>
+      </item>
+    </cluster>
+  </concordance>
+</data>

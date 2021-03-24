@@ -17,20 +17,40 @@ jQuery(document).ready(function(){
     };
 	function doXML(url2data){
 		showProgress();
-		var xml = Sarissa.getDomDocument();
-		xml.async = false;
-		xml.load(url2data);
-		var myxsl = Sarissa.getDomDocument();
-		myxsl.async = false;
-		myxsl.load('corpus.xsl?1');
-		//Now create a new xslt processor
 		var processor = new XSLTProcessor();
-		processor.importStylesheet(myxsl);
-		var mydom = processor.transformToDocument(xml);
-		// rateResult.innerHTML = Sarissa.serialize(ratesHTML);
-		var mydomhtml  = new XMLSerializer().serializeToString(mydom);  
-		jQuery('#response').html(mydomhtml);
-		hideProgress();
+		
+		// I had to manually write AJAX queries to fight Firefox treating of XML
+		var xhr = new XMLHttpRequest();
+		xhr.open("GET", "corpus.xsl", true);
+		xhr.overrideMimeType("text/html");
+		xhr.onreadystatechange = function()
+		{
+			if (xhr.readyState == 4) {
+				var xslDoc = (new DOMParser()).parseFromString(xhr.responseText, "text/xml");
+				processor.importStylesheet(xslDoc);
+				var xhr2 = new XMLHttpRequest();
+				xhr2.open("GET", url2data, true);
+				xhr2.overrideMimeType("text/html");
+				xhr2.onreadystatechange = function()
+				{
+					if (xhr2.readyState == 4) {
+						var xmlDoc  = (new DOMParser()).parseFromString(xhr2.responseText, "text/xml");
+						var mydom = processor.transformToDocument(xmlDoc);
+						var mydomhtml  = new XMLSerializer().serializeToString(mydom);  
+						// console.log(mydomhtml);
+						jQuery('#response').html(mydomhtml);
+						hideProgress();
+						
+					}
+				}
+				xhr2.send();
+						
+				
+			}
+		}
+		xhr.send();
+		
+		
 	};
 	function doSearch(term){
 		if (term){

@@ -1,11 +1,16 @@
-#!/usr/bin/perl
-use strict;
+#!/usr/bin/env perl
+use 5.012; # this enables strict
 use warnings;
+use utf8;
+use experimental 'smartmatch';
 use DBI;
+use DBD::SQLite;
 use XML::LibXML;
 use POSIX qw(strftime);
 use Data::Dumper;
 use Time::HiRes;
+use Encode;
+use URI::Escape;
 
 my $debug = 0;
 
@@ -74,7 +79,8 @@ my $range = 15;
 my ($term, $mode, $left, $right, $text, $re) = ();
 my $query = $ENV{'QUERY_STRING'};
 # goto OUT unless $query;
-$query =~ s/%(..)/pack("C",hex($1))/ge;
+# $query =~ s/%(..)/pack("C",hex($1))/ge;
+$query = Encode::decode('utf8', uri_unescape($query));
 
 my @params = qw /re mode left right term text/;
 my %req = ();
@@ -103,9 +109,21 @@ goto OUT if ($req{mode} eq 'text' && $req{term} eq '');
 $req{right} = 4 unless exists $req{right} || $req{right} > 9;
 $req{left} = 4 unless exists $req{left} || $req{left} > 9;
 
+
+
 my $time = Time::HiRes::time();
-my $dbh = DBI->connect("dbi:SQLite:dbname=corpus.db", "", "", {RaiseError => 1, AutoCommit => 0, PrintError => 1});
-$dbh->{sqlite_unicode} = 1;
+# my $dbh = DBI->connect("dbi:SQLite:dbname=corpus.db", "", "", {RaiseError => 1, AutoCommit => 0, PrintError => 1, sqlite_open_flags => SQLITE_OPEN_READONLY});
+# $dbh->{sqlite_unicode} = 1;
+
+
+my $dbh = DBI->connect("dbi:SQLite:dbname="."./corpus.db", undef, undef, {
+	sqlite_unicode => 1,
+	AutoCommit => 1, 
+	RaiseError => 1, 
+	sqlite_open_flags =>  DBD::SQLite::OPEN_READONLY,
+	# ReadOnly   => 1, # current version too minor
+	# sqlite_use_immediate_transaction => 1,
+});
 
 $dbh->func('regexp', 2, sub {
     my ($regex, $string) = @_;
@@ -124,12 +142,12 @@ $report->appendTextChild('time', POSIX::strftime ("%H:%M:%S", @dt));
 
 
 if ($req{mode} eq 'text') {
-	my $psql = "SELECT position FROM tokens WHERE form <> '' AND text_id = ".$req{text}." AND form ".( length($req{re}) ? ' REGEXP ': '=')."\'".$req{term}."\'";
+	my $psql = "SELECT position FROM tokens WHERE form <> '' AND text_id = ".int($req{text})." AND form ".( length($req{re}) ? ' REGEXP ': '=').'?';
 	lg( $psql);
 	# $psql = "SELECT position from tokens WHERE form REGEXP \'".'лабанові\w+'."\'";
 	# $psql = "SELECT position from tokens WHERE form REGEXP \'".'^(ён|яна)$'."\'";
 	my $contexts = {};
-	my @pos_list = @{$dbh->selectcol_arrayref($psql)}; 
+	my @pos_list = @{$dbh->selectcol_arrayref($psql, {}, $req{term})}; 
 	
 	# print STDERR $psql."\n";
 	
@@ -228,7 +246,7 @@ if ($req{mode} eq 'text') {
 		$report->appendTextChild('xmltime', $xmltime);
 } elsif($req{mode} eq 'meta') {
 }
-	# $doc->toFile($filename, 1);
+	# $doc->toFile("out.xml", 1);
 	$response = $doc->serialize(1);
 	$dbh->disconnect();
 OUT: {
