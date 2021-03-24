@@ -1,0 +1,13 @@
+{
+    "info": {
+        "short": {
+            "title": "Korpus białoruski do słownika elektronicznego.",
+			"technologies": "Technologii"
+        }
+	},
+	"settings": {
+		"regexp": "Reg. exp."
+				
+		
+	}    
+}

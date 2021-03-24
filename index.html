@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="be" xml:lang="be">
+  <head>    
+    <title>
+      Lëxi – web-based corpus manager
+    </title>
+    <link href="favicon.ico" rel="shortcut icon" />
+    <link rel="stylesheet" type="text/css" href="res/corpus.css" />
+	<script src="http://code.jquery.com/jquery.min.js" type="text/javascript"></script>
+    <script src="res/sarissa.js" type="text/javascript"></script> 
+	<script src="res/j42r.js" type="text/javascript"></script>
+	<script src="res/custom.js" type="text/javascript"></script>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<style type="text/css">
+		body {width: 1000px;margin:auto}
+		#content{background-color:red}
+		div.langs{margin:0px;padding:0px;position:fixed;top:2px;right:2px;}
+		.hint{font-weight:bold;color:red;}
+		div.langs select{border:2px solid #08f;color:#08f;font-size:18px;font-weight:bold;}
+
+		.token {
+		 cursor: pointer; 
+		 
+		 -moz-border-radius: 0.3em; /* for mozilla-based browsers */ 
+		 -webkit-border-radius: 0.3em; /* for webkit-based browsers */ 
+		 border-radius: 0.3em; /* theoretically for *all* browsers dependant on implementation of CSS3 */ 
+		 border: 2px solid #ccc;
+		}
+
+	</style>
+  </head>
+  <body>
+    <div id="page" style="width:50em;padding-top:10px;margin:auto;">
+      <div id="project" class="project" style="height:100px;">
+        <div id="subcontainer" style="float: left;">
+          <div style="float: left;">
+            <a href="http://yaskevich.com/"><img src="res/minikote.jpg" alt="Коцік" /></a>
+          </div>
+          <div style="float: right;padding:5px;">
+            <a style="float:left;padding-right:5px;" href="http://www.obta.uw.edu.pl/"><img src="res/ibi-al.jpg" alt="IBI AL" /></a> Instytut Badań Interdyscyplinarnych.
+            <div>
+              "Artes Liberales". Session Dec 2010.
+            </div>
+			<div class="langs">
+			<span class="hint">select language here -> </span>
+			<select id="lang"></select>
+		</div>
+            <div>
+              Аляксей Яскевіч [Alyaxey Yaskevich]
+            </div>
+            <div class ="I18N">info.short.title</div>
+            <div>
+              <span class="I18N">info.short.technologies</span>: Perl, SQLite, JQuery, XML/XSLT.
+            </div>
+          </div>
+        </div>
+        <div style="float: right;">
+          <a href="http://philology.by/"><img src="res/ph-by.png" alt="Беларуская лінгвістыка" /></a>
+        </div>
+      </div>
+      <div style="clear:both;"></div>
+      <div id="corpus" class="corpus"></div>
+      <div class="control hidden" id="control">
+        <table border="1" cellpadding="1" cellspacing="1">
+          <tr align="left" valign="top">
+            <td>
+              left&nbsp;offset
+            </td>
+            <td>
+              right&nbsp;offset
+            </td>
+            <td>
+              sort (not implem.)
+            </td>
+            <td>
+              search&nbsp;condition
+            </td>
+          </tr>
+          <tr align="left" valign="top">
+            <td><select name="left" id="left"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option selected="selected" value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option></select></td><td><select name="right" id="right"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option selected="selected" value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option></select></td>
+            <td>
+			<select name="folder" disabled="disabled">
+                <option value="l">
+                  by left offset item
+                </option>
+                <option value="r">
+                  by right offset item
+                </option>
+                <option selected="selected" value="s">
+                  as in source text
+                </option>
+                <option value="t">
+                  by search term forms
+                </option>
+              </select>
+            </td>
+            <td>
+              <input name="term" type="text" id="term" />
+            </td>
+          </tr>
+          <tr align="left" valign="top">
+            <td>
+              &nbsp;
+            </td>
+            <td>
+              &nbsp;
+            </td>
+            <td>
+              <label><input type="checkbox" name="sort_rev" value="1" disabled="disabled"/>reversed</label>
+            </td>
+            <td>
+              <input type="checkbox" name="re" value="1" id="re" /><label class="I18N">settings.regexp</label>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <input type="button" value="freq" id="freq" /><input type="submit" name=".submit" value="dig" style="float:right;" id="get" />
+      </div>
+	  <div id="spinner">Loading...</div>
+      <div class="response" id="response"></div>
+    </div>
+  </body>
+</html>

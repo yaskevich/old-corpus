@@ -1,0 +1,13 @@
+{
+    "info": {
+        "short": {
+            "title": "Belarusian corpus for electronic dictionary.",
+			"technologies": "Technologies"
+        }
+	},
+	"settings": {
+		"regexp": "Reg. exp."
+				
+		
+	}    
+}
